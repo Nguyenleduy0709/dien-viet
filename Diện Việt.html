@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Diện Việt</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f2f3f8;--ink:#14122b;--mut:#5d5b73;--card:#fff;--line:#dcdde8;--acc:#d7263d;--accsoft:#fde6e9;--warn:#fff3d6;--warnink:#6b4a00;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#12111f;--ink:#f1f0fa;--mut:#a9a7c2;--card:#1c1b2e;--line:#2f2d47;--accsoft:#3a1a22;--warn:#3b2f12;--warnink:#f3d98b}}
+:root[data-theme="dark"]{--bg:#12111f;--ink:#f1f0fa;--mut:#a9a7c2;--card:#1c1b2e;--line:#2f2d47;--accsoft:#3a1a22;--warn:#3b2f12;--warnink:#f3d98b}
+*{box-sizing:border-box}html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Be Vietnam Pro',system-ui,sans-serif;line-height:1.55}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+header{display:flex;justify-content:space-between;align-items:center;padding:18px 0}
+.logo{font-weight:800;letter-spacing:-.02em}.logo i{font-style:normal;color:var(--acc)}
+header span{color:var(--mut);font-size:.85rem}
+.hero{padding:36px 0 18px}
+h1{font-size:clamp(2.4rem,7vw,4.6rem);line-height:1.02;letter-spacing:-.04em;margin:0 0 14px;font-weight:800;max-width:14ch}
+.slogan{color:var(--mut);max-width:46ch;margin:0 0 26px;font-size:1.05rem}
+.search{display:flex;gap:8px;background:var(--card);border:1.5px solid var(--ink);border-radius:999px;padding:6px 6px 6px 22px;max-width:720px}
+.search input{flex:1;min-width:0;border:0;background:none;color:var(--ink);font:inherit;outline:none}
+.btn{border:0;background:var(--acc);color:#fff;font:inherit;font-weight:700;border-radius:999px;padding:12px 26px;cursor:pointer}
+.btn:hover{filter:brightness(1.08)}
+:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 6px;align-items:center}
+.chips small{color:var(--mut);width:100%;margin-top:4px}
+.chip{border:1.5px solid var(--line);background:var(--card);color:var(--ink);font:inherit;font-size:.9rem;border-radius:999px;padding:7px 15px;cursor:pointer}
+.chip[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.clear{background:none;border:0;color:var(--mut);text-decoration:underline;font:inherit;cursor:pointer;font-size:.9rem}
+.status{margin:30px 0 14px;color:var(--mut)}.status b{color:var(--ink)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:22px}
+.card{background:var(--card);border-radius:22px;overflow:hidden;border:1px solid var(--line);display:flex;flex-direction:column}
+.pic{height:330px;display:flex;align-items:flex-end;justify-content:center;position:relative}
+.pic svg{height:92%}
+.badge{position:absolute;top:14px;right:14px;background:var(--card);color:var(--ink);font-weight:800;border-radius:999px;padding:5px 12px;font-size:.9rem}
+.body{padding:18px 20px 22px;display:flex;flex-direction:column;gap:12px}
+.body h3{margin:0;font-size:1.2rem;letter-spacing:-.01em}.body p{margin:0;color:var(--mut);font-size:.93rem}
+.tags{display:flex;flex-wrap:wrap;gap:6px}.tag{background:var(--accsoft);color:var(--ink);border-radius:999px;padding:3px 11px;font-size:.8rem}
+.bar{height:6px;background:var(--line);border-radius:9px;overflow:hidden}.bar div{height:100%;background:var(--acc)}
+.why{font-size:.9rem;border-left:3px solid var(--acc);padding-left:12px}.why b{display:block;margin-bottom:2px}
+details{font-size:.9rem;border-top:1px solid var(--line);padding-top:10px}summary{cursor:pointer;font-weight:700}details p{margin-top:6px}
+.warn{background:var(--warn);color:var(--warnink);border-radius:12px;padding:10px 12px;font-size:.88rem}
+.empty{padding:40px;border:1.5px dashed var(--line);border-radius:22px;text-align:center;color:var(--mut)}
+.culture{margin:64px 0 50px}.culture h2{font-size:1.8rem;letter-spacing:-.03em;margin:0 0 16px}
+.cgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.cgrid div{padding:18px;border-radius:18px;background:var(--card);border:1px solid var(--line);font-size:.92rem}.cgrid b{display:block;margin-bottom:4px}
+footer{color:var(--mut);font-size:.8rem;padding:0 0 40px}
+@media (prefers-reduced-motion:no-preference){.card{animation:in .35s ease both}@keyframes in{from{opacity:0;transform:translateY(8px)}}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header><div class="logo">Diện <i>Việt</i></div><span>Bản demo giao diện · dữ liệu mẫu</span></header>
+  <section class="hero">
+    <h1>Mặc truyền thống, theo kiểu của bạn.</h1>
+    <p class="slogan">Mô tả bộ áo dài bạn muốn, hoặc chọn nhanh dịp, màu và phong cách. Mỗi gợi ý đều kèm lý do và đôi điều về văn hóa.</p>
+    <form class="search" id="form" role="search">
+      <input id="q" type="text" aria-label="Mô tả áo dài bạn muốn" placeholder="Tôi muốn áo dài đỏ, trẻ trung để mặc đi Tết" autocomplete="off">
+      <button class="btn" type="submit">Tìm áo dài</button>
+    </form>
+    <div class="chips" id="chips" role="group" aria-label="Chọn nhanh"></div>
+  </section>
+  <div class="status" id="status" aria-live="polite"></div>
+  <section class="grid" id="results"></section>
+  <section class="culture"><h2>Mặc đúng, mặc đẹp</h2><div class="cgrid" id="culture"></div></section>
+  <footer>Nội dung văn hóa trong bản demo là dữ liệu mẫu, cần đối chiếu nguồn tham khảo trước khi công bố.</footer>
+</div>
+
+<script>
+/* =====================================================================
+   DATA LAYER  (đổi MockProvider -> HttpProvider là xong, UI không đổi)
+   Hợp đồng: provider.search({query, chips}) -> Promise<{criteria, results[]}>
+              provider.cultureNotes()        -> Promise<{title, text}[]>
+   Mỗi result: {id,name,desc,colors[],styles[],occasions[],score(0-100),
+                reason,culture,warning|null, visual:{main,accent,pants,short}}
+   ===================================================================== */
+const CHIPS = [
+  {k:'dip:tet',l:'Tết'},{k:'dip:cuoi_hoi',l:'Cưới hỏi'},{k:'dip:le_hoi',l:'Lễ hội'},
+  {k:'mau:do',l:'Đỏ'},{k:'mau:vang',l:'Vàng'},{k:'mau:trang',l:'Trắng'},
+  {k:'kieu:truyen_thong',l:'Truyền thống'},{k:'kieu:tre_trung',l:'Trẻ trung'},{k:'kieu:thanh_lich',l:'Thanh lịch'}];
+const LABEL = Object.fromEntries(CHIPS.map(c=>[c.k,c.l]));
+
+const CATALOG = [
+ {id:'a1',name:'Cách tân đỏ hoa mai',desc:'Tà ngắn gọn, họa tiết hoa mai nhỏ, dễ di chuyển khi đi chơi Tết.',mau:['do'],kieu:['tre_trung'],dip:['tet','le_hoi'],
+  culture:'Hoa mai vàng gắn với sắc xuân của miền Nam, thường xuất hiện trong trang phục và trang trí ngày Tết.',warn:null,visual:{main:'#d7263d',accent:'#ffd166',pants:'#fff',short:true,bg:'#fde0d6'}},
+ {id:'a2',name:'Gấm đỏ thanh lịch',desc:'Chất gấm dày dặn, dáng suông dài, phù hợp chụp ảnh gia đình.',mau:['do'],kieu:['thanh_lich','truyen_thong'],dip:['tet','le_hoi'],
+  culture:'Sắc đỏ trong dịp Tết được hiểu là biểu tượng của may mắn và niềm vui đầu năm.',warn:null,visual:{main:'#b3122a',accent:'#f5c26b',pants:'#f5ead0',bg:'#f9d3cf'}},
+ {id:'a3',name:'Vàng nắng lễ hội',desc:'Màu vàng tươi, cổ cao nhẹ, hợp đi hội xuân và lễ hội mùa xuân.',mau:['vang'],kieu:['tre_trung','thanh_lich'],dip:['le_hoi','tet'],
+  culture:'Vàng là màu quen thuộc của mùa xuân và các dịp lễ, gợi cảm giác ấm áp, sung túc.',warn:'Đi chùa hoặc nơi tôn nghiêm nên chọn kiểu kín đáo, tránh tà quá ngắn.',visual:{main:'#f2b705',accent:'#d7263d',pants:'#fff',short:true,bg:'#fff1bd'}},
+ {id:'a4',name:'Trắng nữ sinh',desc:'Áo dài trắng cổ điển, dáng thẳng, đơn giản và dễ phối phụ kiện.',mau:['trang'],kieu:['truyen_thong','thanh_lich'],dip:['le_hoi'],
+  culture:'Áo dài trắng gắn với hình ảnh nữ sinh Việt Nam qua nhiều thế hệ.',warn:null,visual:{main:'#fbfbff',accent:'#b9c0e0',pants:'#fbfbff',bg:'#dfe3f4',outline:true}},
+ {id:'a5',name:'Đỏ thêu cưới hỏi',desc:'Nền đỏ thêu chỉ vàng, dáng truyền thống cho lễ ăn hỏi và lễ cưới.',mau:['do'],kieu:['truyen_thong'],dip:['cuoi_hoi','tet'],
+  culture:'Trong lễ cưới hỏi, áo dài đỏ thêu thường được chọn cho cô dâu vì mang ý nghĩa chúc phúc.',warn:'Khách mời thường chọn màu khác để cô dâu nổi bật hơn trong ngày cưới.',visual:{main:'#c1121f',accent:'#ffd166',pants:'#ffd166',bg:'#f6c9c4'}},
+ {id:'a6',name:'Trắng cách tân nhẹ nhàng',desc:'Voan trắng mềm, tà lửng, hợp ảnh cưới ngoài trời và dạo phố.',mau:['trang'],kieu:['tre_trung'],dip:['cuoi_hoi','le_hoi'],
+  culture:'Nhiều cặp đôi trẻ chọn áo dài cách tân để giữ nét truyền thống mà vẫn thoải mái.',warn:null,visual:{main:'#ffffff',accent:'#e8b4bc',pants:'#f4f4fb',short:true,bg:'#e6e0f2',outline:true}},
+ {id:'a7',name:'Vàng gấm lễ ăn hỏi',desc:'Gấm vàng ánh kim, dáng cổ điển, sang trọng trong các lễ nghi gia đình.',mau:['vang'],kieu:['truyen_thong','thanh_lich'],dip:['cuoi_hoi','le_hoi'],
+  culture:'Sắc vàng thường được dùng trong các nghi lễ vì gợi sự trang trọng và đủ đầy.',warn:null,visual:{main:'#e0a200',accent:'#8c1c13',pants:'#f5ead0',bg:'#fbe7a8'}},
+ {id:'a8',name:'Đỏ trẻ trung phối quần trắng',desc:'Áo đỏ tươi, họa tiết tối giản, phối quần trắng cho phong cách năng động.',mau:['do'],kieu:['tre_trung','thanh_lich'],dip:['tet','cuoi_hoi'],
+  culture:'Phối áo dài với quần sáng màu là cách phổ biến để trang phục nhẹ nhàng, hợp người trẻ.',warn:null,visual:{main:'#e63946',accent:'#fff',pants:'#fff',bg:'#ffd9dc'}}
+];
+const NOTES = [
+ {title:'Áo dài là gì?',text:'Trang phục có thân dài xẻ tà, mặc cùng quần. Dáng hiện nay phát triển qua nhiều giai đoạn từ áo ngũ thân.'},
+ {title:'Chọn theo dịp',text:'Tết ưa màu tươi, lễ nghi trang trọng ưa dáng truyền thống, đi chơi có thể chọn kiểu cách tân.'},
+ {title:'Phối đồ có chủ ý',text:'Giữ một điểm nhấn (họa tiết hoặc phụ kiện) và để phần còn lại gọn, bộ đồ sẽ hài hòa hơn.'}];
+
+const norm = s => ' '+s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/đ/g,'d').replace(/[^a-z0-9 ]/g,' ').replace(/\s+/g,' ')+' ';
+const LEX = {'dip:tet':['tet','xuan','nam moi'],'dip:cuoi_hoi':['cuoi','an hoi','cuoi hoi','dam cuoi'],'dip:le_hoi':['le hoi','hoi xuan','le','chua'],
+ 'mau:do':['do','do tuoi'],'mau:vang':['vang'],'mau:trang':['trang'],
+ 'kieu:truyen_thong':['truyen thong','co dien','xua'],'kieu:tre_trung':['tre trung','nang dong','cach tan','hien dai'],'kieu:thanh_lich':['thanh lich','nhe nhang','sang trong']};
+const W = {dip:3,mau:3,kieu:2.5};
+
+const MockProvider = {
+  async search({query='',chips=[]}){
+    await new Promise(r=>setTimeout(r,250));            // giả lập độ trễ mạng
+    const q = norm(query), set = new Set(chips);
+    for(const [k,ws] of Object.entries(LEX)) if(ws.some(w=>q.includes(' '+w+' '))) set.add(k);
+    const criteria=[...set];
+    const rows = CATALOG.map(it=>{
+      let got=0,max=0,hit=[];
+      for(const c of criteria){const [f,v]=c.split(':');max+=W[f];if(it[f].includes(v)){got+=W[f];hit.push(c)}}
+      return {it,got,max,hit};
+    });
+    const pick = criteria.length ? rows.filter(r=>r.got>0).sort((a,b)=>b.got-a.got) : rows;
+    const results = pick.slice(0,5).map(({it,got,max,hit})=>({
+      id:it.id,name:it.name,desc:it.desc,colors:it.mau.map(m=>LABEL['mau:'+m]),styles:it.kieu.map(m=>LABEL['kieu:'+m]),
+      occasions:it.dip.map(m=>LABEL['dip:'+m]),
+      score: criteria.length ? Math.round(55+43*got/max) : null,
+      reason: criteria.length ? (hit.length ? 'Khớp với '+hit.map(h=>LABEL[h].toLowerCase()).join(', ')+' trong yêu cầu của bạn.' : '') : 'Mẫu nổi bật để bạn tham khảo.',
+      missed: criteria.filter(c=>!hit.includes(c)).map(c=>LABEL[c].toLowerCase()),
+      culture:it.culture,warning:it.warn,visual:it.visual}));
+    return {criteria:criteria.map(c=>LABEL[c]),results};
+  },
+  async cultureNotes(){return NOTES}
+};
+/* Khi có API thật: viết HttpProvider trả về cùng hình dạng dữ liệu, rồi đổi dòng PROVIDER bên dưới. */
+const HttpProvider = {
+  base:'/api',
+  async search({query,chips}){const r=await fetch(this.base+'/search',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({query,chips})});return r.json()},
+  async cultureNotes(){return (await fetch(this.base+'/culture')).json()}
+};
+const PROVIDER = MockProvider;
+
+/* ============================ UI ============================ */
+const $=id=>document.getElementById(id), esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const active=new Set();
+
+function dress(v){
+  const len=v.short?150:200, st=v.outline?`stroke="#b9bdd6" stroke-width="1.5"`:'';
+  const dots=[...Array(7)].map((_,i)=>`<circle cx="${50+(i%3)*10}" cy="${60+i*13}" r="2.4" fill="${v.accent}" opacity=".85"/>`).join('');
+  return `<svg viewBox="0 0 120 230" role="img" aria-label="Minh họa áo dài">
+  <path d="M47 140 L45 224 L59 224 L60 140Z M61 140 L62 224 L76 224 L74 140Z" fill="${v.pants}" ${st}/>
+  <path d="M48 16 L60 26 L72 16 L81 42 L77 104 L${v.short?80:86} ${len} L60 ${len+8} L${v.short?40:34} ${len} L43 104 L39 42Z" fill="${v.main}" ${st}/>
+  <path d="M40 42 L16 128 L27 132 L45 76Z M80 42 L104 128 L93 132 L75 76Z" fill="${v.main}" ${st}/>
+  <path d="M48 16 L60 26 L72 16" fill="none" stroke="${v.accent}" stroke-width="3"/>${dots}</svg>`;
+}
+function card(r){
+  return `<article class="card"><div class="pic" style="background:${r.visual.bg}">${dress(r.visual)}${r.score?`<span class="badge">${r.score}% phù hợp</span>`:''}</div>
+  <div class="body"><h3>${esc(r.name)}</h3><p>${esc(r.desc)}</p>
+  <div class="tags">${[...r.occasions,...r.colors,...r.styles].map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div>
+  ${r.score?`<div class="bar" aria-hidden="true"><div style="width:${r.score}%"></div></div>`:''}
+  <div class="why"><b>Vì sao được gợi ý?</b>${esc(r.reason)}${r.missed&&r.missed.length&&r.score?` Chưa khớp: ${esc(r.missed.join(', '))}.`:''}</div>
+  <details><summary>Thông tin văn hóa</summary><p>${esc(r.culture)}</p></details>
+  ${r.warning?`<div class="warn"><b>Lưu ý:</b> ${esc(r.warning)}</div>`:''}</div></article>`;
+}
+async function run(){
+  const query=$('q').value.trim(), chips=[...active];
+  $('status').textContent='Đang tìm…';
+  const {criteria,results}=await PROVIDER.search({query,chips});
+  $('status').innerHTML = criteria.length
+    ? (results.length?`Tìm theo <b>${esc(criteria.join(' · '))}</b>: ${results.length} gợi ý hợp nhất.`:'')
+    : 'Gợi ý nổi bật cho bạn';
+  $('results').innerHTML = results.length ? results.map(card).join('') :
+    `<div class="empty" style="grid-column:1/-1">Chưa có mẫu khớp với “${esc(criteria.join(', '))}”. Thử bớt một lựa chọn hoặc đổi màu, dịp khác.</div>`;
+}
+function drawChips(){
+  $('chips').innerHTML = CHIPS.map(c=>`<button type="button" class="chip" data-k="${c.k}" aria-pressed="${active.has(c.k)}">${c.l}</button>`).join('')
+    + (active.size?`<button type="button" class="clear" id="clear">Bỏ chọn tất cả</button>`:'')
+    + `<small>Chọn nhiều ô cùng lúc, kết quả cập nhật ngay.</small>`;
+}
+$('chips').addEventListener('click',e=>{
+  if(e.target.id==='clear'){active.clear()}
+  else if(e.target.dataset.k){const k=e.target.dataset.k;active.has(k)?active.delete(k):active.add(k)}
+  else return;
+  drawChips();run();
+});
+$('form').addEventListener('submit',e=>{e.preventDefault();run()});
+drawChips();run();
+PROVIDER.cultureNotes().then(n=>{$('culture').innerHTML=n.map(x=>`<div><b>${esc(x.title)}</b>${esc(x.text)}</div>`).join('')});
+</script>
+</body>
+</html>

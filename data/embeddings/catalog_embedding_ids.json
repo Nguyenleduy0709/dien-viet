@@ -1,0 +1,29 @@
+{
+ "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+ "count": 21,
+ "dim": 384,
+ "fingerprint": "2ce281443e045be1f99828503f57ec9404bdf3cfcee227f45352f3ee76ee2a7c",
+ "ids": [
+  "ao_dai_0002",
+  "ao_dai_0014",
+  "ao_dai_0008",
+  "ao_dai_0166",
+  "ao_dai_0020",
+  "ao_dai_0026",
+  "ao_dai_0032",
+  "ao_dai_0038",
+  "ao_dai_0003",
+  "ao_dai_0004",
+  "ao_dai_0005",
+  "ao_dai_0006",
+  "ao_dai_0001",
+  "ao_dai_0044",
+  "ao_dai_0009",
+  "ao_dai_0010",
+  "ao_dai_0011",
+  "ao_dai_0012",
+  "ao_dai_0007",
+  "ao_dai_0050",
+  "ao_dai_0015"
+ ]
+}

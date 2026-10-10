@@ -1,0 +1,578 @@
+[
+  {
+    "id": "ao_dai_0002",
+    "image": "data\\raw\\ao_dai\\ao_dai_cach_tân__000001.jpg",
+    "name": "Áo dài tím pastel tay lửng thêu hoa nổi",
+    "description": "Áo dài cách tân màu tím hoa cà (pastel), cổ trụ thấp khoét nhẹ, tay lửng ống loe bằng chất liệu tơ voan mỏng manh; thân áo đính kết và thêu hoa nổi phân bố rải rác; mặc cùng quần ống rộng suông bằng chất liệu lụa bóng cùng tông màu.",
+    "occasion": [
+      "Dạo phố",
+      "Chụp ảnh kỷ niệm",
+      "Lễ hội",
+      "Sự kiện",
+      "Tết"
+    ],
+    "color": [
+      "tím"
+    ],
+    "style": [
+      "cách tân",
+      "thanh lịch",
+      "trẻ trung"
+    ],
+    "pattern": [
+      "thêu hoa"
+    ],
+    "cultural_context": "Sắc tím gợi liên tưởng đến nét đẹp duyên dáng, kín đáo và mộng mơ trong văn hóa trang phục truyền thống Việt, đặc biệt gắn với hình tượng áo dài tím xứ Huế nhưng được làm mới qua phom dáng và chất liệu hiện đại.",
+    "warnings": []
+  },
+  {
+    "id": "ao_dai_0014",
+    "image": "data\\raw\\ao_dai\\ao_dai_cach_tân__000003.jpg",
+    "name": "Áo dài gấm dáng suông màu hồng cánh sen",
+    "description": "Thiết kế áo dài phom suông thoải mái được may bằng chất liệu gấm dệt hoa văn chìm, cổ trụ thấp viền hạt trang trí, tay lỡ rộng bay bổng. Áo đi kèm quần lụa bóng mềm mại cùng tông màu hồng.",
+    "occasion": [
+      "Tết",
+      "Lễ hội",
+      "Sự kiện",
+      "Chụp ảnh kỷ niệm",
+      "Dạo phố"
+    ],
+    "color": [
+      "hồng"
+    ],
+    "style": [
+      "cách tân",
+      "thanh lịch",
+      "sang trọng",
+      "trẻ trung"
+    ],
+    "pattern": [
+      "hoa văn gấm"
+    ],
+    "cultural_context": "Dáng áo suông cách tân lấy cảm hứng từ áo dài phom rộng truyền thống, kết hợp chất liệu gấm gấm hoa sang trọng gợi nhớ nét đẹp nền nã của phụ nữ Việt Nam trong các dịp lễ tết và du xuân.",
+    "warnings": []
+  },
+  {
+    "id": "ao_dai_0008",
+    "image": "data\\raw\\ao_dai\\ao_dai_cach_tân__000002.jpg",
+    "name": "Áo dài cách tân dáng suông thêu hoa nhí phối quần cam",
+    "description": "Mẫu áo dài cách tân phom dáng suông thoải mái, cổ trụ thấp truyền thống, tay lửng xòe nhẹ. Thân áo bằng chất liệu tơ mỏng nhẹ màu trắng ngà xuyên thấu nhẹ để lộ lớp lót/phối sắc cam nhạt bên trong, tà áo dài qua gối. Đi kèm là quần lụa ống rộng màu cam nổi bật.",
+    "occasion": [
+      "Tết",
+      "Dạo phố",
+      "Chụp ảnh kỷ niệm",
+      "Sự kiện"
+    ],
+    "color": [
+      "trắng",
+      "cam"
+    ],
+    "style": [
+      "cách tân",
+      "trẻ trung",
+      "thanh lịch"
+    ],
+    "pattern": [
+      "thêu hoa"
+    ],
+    "cultural_context": "Áo dài cách tân dáng suông hiện đại, kế thừa nét duyên dáng của áo dài truyền thống kết hợp tính ứng dụng cao, thường được phụ nữ ưa chuộng mặc vào dịp Tết Nguyên đán hoặc dạo phố chụp ảnh trong không gian đô thị.",
+    "warnings": [
+      "Chất liệu tơ mỏng nhẹ cần chú ý chọn lớp lót hoặc nội y phù hợp để giữ nét trang nhã và thanh lịch."
+    ]
+  },
+  {
+    "id": "ao_dai_0166",
+    "image": "data\\raw\\ao_dai\\ao_dai_học_sinh__000028.png",
+    "name": "Áo dài trắng nữ sinh họa tiết chìm",
+    "description": "Dáng áo dài truyền thống chiết eo thon gọn, cổ tròn ôm sát chân cổ kín đáo và tay dài thanh lịch. Tà áo dài thướt tha kết hợp cùng quần suông ống rộng màu trắng đồng điệu. Chất liệu vải mềm rủ, có dệt hoa văn hình học ngôi sao chìm tinh tế.",
+    "occasion": [
+      "Đi học",
+      "Chụp ảnh kỷ niệm",
+      "Lễ hội",
+      "Sự kiện"
+    ],
+    "color": [
+      "trắng"
+    ],
+    "style": [
+      "truyền thống",
+      "thanh lịch",
+      "trẻ trung"
+    ],
+    "pattern": [
+      "hoa văn gấm",
+      "họa tiết chìm"
+    ],
+    "cultural_context": "Áo dài trắng là trang phục đồng phục truyền thống quen thuộc của nữ sinh cấp ba và sinh viên Việt Nam, tượng trưng cho nét đẹp trong trẻo, thuần khiết và thanh lịch của tuổi học trò.",
+    "warnings": [
+      "Do chất liệu và tông màu trắng sáng, người mặc nên chú ý lựa chọn nội y màu da hoặc tệp màu để đảm bảo tính thẩm mỹ và kín đáo."
+    ]
+  },
+  {
+    "id": "ao_dai_0020",
+    "image": "data\\raw\\ao_dai\\ao_dai_cach_tân__000004.jpg",
+    "name": "Áo dài cách tân hồng phấn tay loe đính hoa nổi",
+    "description": "Áo dài phom suông cách tân màu hồng phấn nhạt bằng chất liệu lụa bóng nhẹ. Thiết kế cổ trụ thấp, tay áo lỡ dáng cánh tiên loe rộng bay bổng. Mặt trước tạo điểm nhấn bằng các bông hoa vải 3D đính nổi ở phần vai ngực và bên hông. Đi kèm quần lụa ống rộng cùng tông màu, phụ kiện mấn tết xoắn và túi xách vải ton-sur-ton.",
+    "occasion": [
+      "Tết",
+      "Dạo phố",
+      "Chụp ảnh kỷ niệm",
+      "Sự kiện",
+      "Cưới hỏi"
+    ],
+    "color": [
+      "hồng"
+    ],
+    "style": [
+      "cách tân",
+      "trẻ trung",
+      "thanh lịch"
+    ],
+    "pattern": [
+      "trơn"
+    ],
+    "cultural_context": "Mẫu áo dài cách tân hiện đại lấy cảm hứng từ trang phục truyền thống phối hợp cùng mấn tết đội đầu, thể hiện xu hướng thời trang áo dài ứng dụng được phái nữ ưa chuộng trong các dịp Tết cổ truyền và chụp ảnh kỷ niệm.",
+    "warnings": [
+      "Trang phục có thiết kế tay loe và tà ngắn cách tân, phù hợp cho tiệc nhẹ, dạo phố hơn là các nghi lễ tôn giáo trang nghiêm chuẩn mực."
+    ]
+  },
+  {
+    "id": "ao_dai_0026",
+    "image": "data\\raw\\ao_dai\\ao_dai_cach_tân__000005.jpg",
+    "name": "Áo dài gấm hồng dáng suông tay lỡ",
+    "description": "Áo dài phom dáng suông rộng rãi may bằng chất liệu gấm dệt hoa văn chìm màu hồng sen nổi bật, cổ trụ thấp cách điệu đính khuy cài lệch bên vai, tay áo lỡ suông, kết hợp cùng quần lụa ống rộng màu hồng phấn nhạt.",
+    "occasion": [
+      "Tết",
+      "Lễ hội",
+      "Dạo phố",
+      "Chụp ảnh kỷ niệm",
+      "Sự kiện"
+    ],
+    "color": [
+      "hồng"
+    ],
+    "style": [
+      "cách tân",
+      "thanh lịch",
+      "trẻ trung"
+    ],
+    "pattern": [
+      "hoa văn gấm"
+    ],
+    "cultural_context": "Áo dài chất liệu gấm phom suông lấy cảm hứng từ dáng áo truyền thống kết hợp phong cách hiện đại tiện dụng, màu sắc tươi vui rất được phụ nữ Việt Nam ưa chuộng vào các dịp Tết đến xuân về hoặc du xuân chụp ảnh.",
+    "warnings": []
+  },
+  {
+    "id": "ao_dai_0032",
+    "image": "data\\raw\\ao_dai\\ao_dai_cach_tân__000006.png",
+    "name": "Áo dài cách tân lụa hồng phấn dáng suông",
+    "description": "Thiết kế áo dài cách tân phom suông rộng rãi may bằng chất liệu lụa mềm rũ màu hồng phấn. Cổ áo tròn thanh thoát điểm xuyết hàng cúc bọc lệch một bên vai, kết hợp tay áo lỡ loe nhẹ nữ tính. Tà áo dài ngang bắp chân phối cùng quần lụa ống rộng màu hồng cánh sen đậm tạo điểm nhấn tương phản tinh tế.",
+    "occasion": [
+      "Tết",
+      "Dạo phố",
+      "Chụp ảnh kỷ niệm",
+      "Lễ hội",
+      "Sự kiện"
+    ],
+    "color": [
+      "hồng"
+    ],
+    "style": [
+      "cách tân",
+      "trẻ trung",
+      "thanh lịch"
+    ],
+    "pattern": [
+      "trơn"
+    ],
+    "cultural_context": "Mẫu áo dài cách tân hiện đại giữ nét duyên dáng truyền thống kết hợp tinh thần tối giản, phóng khoáng qua phom suông và tay lỡ; thường được phái nữ diện trong dịp du xuân Tết, lễ chùa hoặc chụp ảnh tại các không gian kiến trúc cổ xưa.",
+    "warnings": []
+  },
+  {
+    "id": "ao_dai_0038",
+    "image": "data\\raw\\ao_dai\\ao_dai_cach_tân__000007.jpg",
+    "name": "Áo dài cách tân màu xanh ngọc thêu chuồn chuồn tay lỡ",
+    "description": "Áo dài dáng suông nhẹ nhàng với tông màu xanh ngọc pastel. Thiết kế cổ tròn viền thanh mảnh đính nơ cách điệu hai bên vai, tay áo lỡ phối vải voan mỏng mềm mại. Thân áo bằng chất liệu tơ/voan cao cấp có thêu họa tiết chuồn chuồn và cỏ cây tinh tế, phối cùng quần lụa ống rộng màu trắng.",
+    "occasion": [
+      "Tết",
+      "Dạo phố",
+      "Chụp ảnh kỷ niệm",
+      "Sự kiện",
+      "Lễ hội"
+    ],
+    "color": [
+      "xanh",
+      "trắng"
+    ],
+    "style": [
+      "cách tân",
+      "thanh lịch",
+      "trẻ trung"
+    ],
+    "pattern": [
+      "thêu hoa",
+      "chuồn chuồn"
+    ],
+    "cultural_context": "Áo dài cách tân hiện đại lấy cảm hứng từ thiên nhiên làng quê Việt Nam với hình ảnh chuồn chuồn và hoa cỏ, tạo vẻ đẹp dịu dàng, trong trẻo và thanh thoát cho người phụ nữ trẻ.",
+    "warnings": []
+  },
+  {
+    "id": "ao_dai_0003",
+    "image": "data\\raw\\ao_dai\\ao_dai_cuới__000001.jpg",
+    "name": "Áo dài đôi cưới hỏi màu đỏ thêu chữ Hỷ",
+    "description": "Cặp áo dài cưới màu đỏ đô sang trọng dành cho nam và nữ. Áo nữ dáng ôm thanh thoát, cổ trụ thấp truyền thống, tay dài viền hoa thêu ở cổ tay, tà dài đi cùng quần lụa cùng tông đỏ. Áo nam phom đứng đắn, tà lửng qua gối, cổ đứng cứng cáp, phối với quần âu đen hiện đại. Trước ngực cả hai áo đều có điểm nhấn là họa tiết chữ Song Hỷ (囍) thêu chỉ vàng kim lồng trong vòng hoa lá tinh xảo.",
+    "occasion": [
+      "Cưới hỏi",
+      "Chụp ảnh kỷ niệm"
+    ],
+    "color": [
+      "đỏ"
+    ],
+    "style": [
+      "sang trọng",
+      "thanh lịch",
+      "truyền thống"
+    ],
+    "pattern": [
+      "chữ Hỷ",
+      "thêu hoa"
+    ],
+    "cultural_context": "Trang phục màu đỏ mang họa tiết chữ Song Hỷ là biểu trưng kinh điển của văn hóa cưới hỏi truyền thống, tượng trưng cho may mắn, hỷ sự và lời chúc phúc viên mãn, gắn kết keo sơn cho đôi tân lang - tân nương.",
+    "warnings": [
+      "Trang phục có họa tiết chữ Song Hỷ đặc thù cho cô dâu chú rể trong ngày cưới hoặc lễ ăn hỏi, tránh mặc làm khách mời đám cưới để không lấn át nhân vật chính."
+    ]
+  },
+  {
+    "id": "ao_dai_0004",
+    "image": "data\\raw\\ao_dai\\ao_dai_học_sinh__000001.jpg",
+    "name": "Áo dài trắng truyền thống",
+    "description": "Áo dài dáng ôm truyền thống với thiết kế cổ đứng/cổ trụ thấp, tay dài thanh lịch, tà dài mềm mại kết hợp cùng quần lụa suông rộng cùng tông màu trắng. Chất liệu vải trơn, rủ nhẹ và tôn dáng.",
+    "occasion": [
+      "Đi học",
+      "Chụp ảnh kỷ niệm",
+      "Sự kiện",
+      "Lễ hội"
+    ],
+    "color": [
+      "trắng"
+    ],
+    "style": [
+      "truyền thống",
+      "thanh lịch",
+      "trẻ trung"
+    ],
+    "pattern": [
+      "trơn"
+    ],
+    "cultural_context": "Áo dài trắng gắn liền với nét đẹp văn hóa học đường, là đồng phục tiêu biểu của nữ sinh Việt Nam thể hiện sự thuần khiết, trong sáng và nét duyên dáng thanh lịch truyền thống.",
+    "warnings": [
+      "Vải màu trắng sáng cần lưu ý chọn nội y màu da hoặc tiệp màu cơ thể để đảm bảo sự kín đáo và tinh tế."
+    ]
+  },
+  {
+    "id": "ao_dai_0005",
+    "image": "data\\raw\\ao_dai\\ao_dai_nam__000001.jpg",
+    "name": "Áo dài nam cách tân xanh họa tiết hổ và én",
+    "description": "Áo dài nam dáng cách tân hiện đại, cổ trụ thấp, tay dài suông, tà áo lửng ngang gối. Áo sử dụng chất liệu vải dệt gấm chìm màu xanh navy, nổi bật với họa tiết minh họa mãnh hổ uy nghiêm ở vạt trước cùng đàn chim én bay lượn ở phần ngực. Kết hợp cùng quần âu màu trắng.",
+    "occasion": [
+      "Tết",
+      "Lễ hội",
+      "Sự kiện",
+      "Chụp ảnh kỷ niệm",
+      "Cưới hỏi"
+    ],
+    "color": [
+      "xanh",
+      "trắng"
+    ],
+    "style": [
+      "cách tân",
+      "sang trọng",
+      "thanh lịch"
+    ],
+    "pattern": [
+      "họa tiết hổ",
+      "chim én",
+      "hoa văn gấm"
+    ],
+    "cultural_context": "Hình tượng hổ biểu trưng cho sức mạnh, quyền uy và sự chở che vững chãi, kết hợp cùng cánh én báo hiệu mùa xuân an lành và thịnh vượng, thường được lựa chọn trong các dịp đón năm mới hoặc sự kiện văn hóa.",
+    "warnings": [
+      "Nên kết hợp cùng quần âu phẳng phiu và giày da tối giản để giữ trọn nét lịch lãm và trang trọng."
+    ]
+  },
+  {
+    "id": "ao_dai_0006",
+    "image": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000001.jpg",
+    "name": "Áo dài cách tân trẻ em màu vàng thêu hoa đính nổi",
+    "description": "Bộ đôi áo dài cách tân cho bé trai và bé gái tone màu vàng tươi. Áo bé trai thiết kế cổ đứng truyền thống, tay dài, kết hợp quần trắng. Áo bé gái thiết kế cổ tròn đính viền ngọc, tay lỡ dáng loe thoải mái, phối cùng quần lụa trắng ống suông. Cả hai áo đều tạo điểm nhấn bằng họa tiết cành hoa đỏ đính nổi 3D kèm tua rua trang trí.",
+    "occasion": [
+      "Tết",
+      "Chụp ảnh kỷ niệm",
+      "Lễ hội",
+      "Cưới hỏi",
+      "Dạo phố"
+    ],
+    "color": [
+      "vàng",
+      "trắng",
+      "đỏ"
+    ],
+    "style": [
+      "cách tân",
+      "trẻ trung"
+    ],
+    "pattern": [
+      "thêu hoa",
+      "hoa đào"
+    ],
+    "cultural_context": "Áo dài trẻ em mang sắc vàng tươi sáng cùng chi tiết hoa mùa xuân tượng trưng cho sự may mắn, sung túc và khởi đầu tốt đẹp, thường được diện trong dịp Tết Nguyên Đán và các sự kiện lễ hội truyền thống.",
+    "warnings": []
+  },
+  {
+    "id": "ao_dai_0001",
+    "image": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000001.jpg",
+    "name": "Áo dài truyền thống lụa đỏ thêu hoa",
+    "description": "Áo dài phom dáng ôm nhẹ tôn dáng với cổ trụ thấp, tay lửng thanh thoát. Chất liệu lụa mềm mại rủ nhẹ, tà áo thướt tha có điểm xuyết họa tiết hoa thêu nổi cùng tông màu ở phần tà dưới, kết hợp cùng quần lụa ống suông rộng đồng màu đỏ.",
+    "occasion": [
+      "Tết",
+      "Cưới hỏi",
+      "Lễ hội",
+      "Sự kiện",
+      "Chụp ảnh kỷ niệm"
+    ],
+    "color": [
+      "đỏ"
+    ],
+    "style": [
+      "truyền thống",
+      "thanh lịch",
+      "sang trọng"
+    ],
+    "pattern": [
+      "thêu hoa"
+    ],
+    "cultural_context": "Sắc đỏ trong trang phục truyền thống Việt Nam tượng trưng cho sự may mắn, cát tường, tài lộc và hạnh phúc, rất được ưa chuộng trong các dịp hỷ sự và đón năm mới.",
+    "warnings": [
+      "Trang phục màu đỏ nổi bật nên khi mặc đi dự tiệc cưới với tư cách khách mời cần lưu ý tránh trùng màu chủ đạo của cô dâu."
+    ]
+  },
+  {
+    "id": "ao_dai_0044",
+    "image": "data\\raw\\ao_dai\\ao_dai_cach_tân__000008.jpg",
+    "name": "Áo dài cách tân đỏ phối chân váy trắng",
+    "description": "Áo dài dáng suông màu đỏ thẫm với thiết kế tay lỡ, cổ trụ thấp bo viền thêu hoa nhỏ màu trắng nhã nhặn. Thân áo dáng suông hiện đại phối cùng chân váy xòe hoặc quần ống rộng màu trắng xếp tầng thướt tha.",
+    "occasion": [
+      "Tết",
+      "Lễ hội",
+      "Dạo phố",
+      "Chụp ảnh kỷ niệm"
+    ],
+    "color": [
+      "đỏ",
+      "trắng"
+    ],
+    "style": [
+      "cách tân",
+      "trẻ trung",
+      "thanh lịch"
+    ],
+    "pattern": [
+      "trơn",
+      "thêu hoa"
+    ],
+    "cultural_context": "Dáng áo dài cách tân suông rộng kết hợp chân váy dài là phong cách hiện đại rất phổ biến trong giới trẻ Việt Nam vào dịp Tết Nguyên Đán và các dịp du xuân, lễ hội truyền thống.",
+    "warnings": []
+  },
+  {
+    "id": "ao_dai_0009",
+    "image": "data\\raw\\ao_dai\\ao_dai_cuới__000002.jpg",
+    "name": "Cặp áo dài cưới đôi màu trắng kem đính kết truyền thống",
+    "description": "Bộ trang phục áo dài đôi cho cô dâu và chú rể mang tông màu trắng kem sang trọng. Áo cô dâu may dáng ôm truyền thống, cổ trụ thấp, tay dài phối ren, ngực áo đính kết hoa văn đối xứng tông màu vàng đồng lộng lẫy kết hợp mấn tròn đội đầu họa tiết đồng điệu; áo chú rể dáng đứng thanh lịch, vạt dài ngang gối thêu họa tiết lớn trước ngực, kết hợp khăn đóng và quần âu đen.",
+    "occasion": [
+      "Cưới hỏi",
+      "Chụp ảnh kỷ niệm"
+    ],
+    "color": [
+      "trắng",
+      "vàng"
+    ],
+    "style": [
+      "truyền thống",
+      "sang trọng",
+      "thanh lịch"
+    ],
+    "pattern": [
+      "thêu hoa",
+      "hoa văn gấm"
+    ],
+    "cultural_context": "Trang phục áo dài cưới đôi đồng điệu kèm mấn/khăn đóng đội đầu thường được cô dâu và chú rể mặc trong lễ ăn hỏi, lễ vu quy hoặc thành hôn, biểu trưng cho sự hòa hợp, trang trọng và gắn kết vợ chồng theo phong tục cưới hỏi Việt Nam.",
+    "warnings": [
+      "Bộ trang phục được thiết kế đặc thù dành cho nhân vật chính trong hôn lễ, khách tham dự nên tránh diện kiểu dáng áo dài đôi đính kết tương tự để tôn vinh cô dâu và chú rể."
+    ]
+  },
+  {
+    "id": "ao_dai_0010",
+    "image": "data\\raw\\ao_dai\\ao_dai_học_sinh__000002.jpg",
+    "name": "Áo dài trắng nữ sinh truyền thống",
+    "description": "Áo dài màu trắng trơn với dáng ôm nhẹ tôn dáng, cổ trụ thấp truyền thống, tay lỡ dài qua khuỷu tay. Tà áo buông rủ dài chấm gót, kết hợp cùng quần lụa trắng ống rộng đồng màu.",
+    "occasion": [
+      "Đi học",
+      "Chụp ảnh kỷ niệm",
+      "Sự kiện"
+    ],
+    "color": [
+      "trắng"
+    ],
+    "style": [
+      "truyền thống",
+      "thanh lịch",
+      "trẻ trung"
+    ],
+    "pattern": [
+      "trơn"
+    ],
+    "cultural_context": "Áo dài trắng là trang phục biểu trưng cho nét đẹp trong sáng, thanh thuần của nữ sinh Việt Nam, thường được sử dụng làm đồng phục học đường vào các dịp đầu tuần, lễ khai giảng, bế giảng hoặc chụp ảnh kỷ yếu tốt nghiệp.",
+    "warnings": [
+      "Vải áo dài màu trắng thường có độ mỏng nhất định, cần chú ý chọn nội y có tông màu da (nude) và kiểu dáng kín đáo để đảm bảo tính thẩm mỹ, thanh lịch."
+    ]
+  },
+  {
+    "id": "ao_dai_0011",
+    "image": "data\\raw\\ao_dai\\ao_dai_nam__000002.jpg",
+    "name": "Áo dài nam cách tân màu xám bạc đính hoa nổi",
+    "description": "Áo dài nam cách tân phom đứng hiện đại, cổ trụ viền trắng, tà lửng qua gối. Hàng cúc bọc vải cài lệch một bên ngực. Điểm nhấn là họa tiết hoa ren thêu đính nổi màu trắng tinh tế dọc bờ vai trái. Chất liệu vải ánh bạc bóng mờ sang trọng, phối cùng quần tối màu hiện đại.",
+    "occasion": [
+      "Cưới hỏi",
+      "Sự kiện",
+      "Chụp ảnh kỷ niệm",
+      "Lễ hội"
+    ],
+    "color": [
+      "bạc",
+      "trắng"
+    ],
+    "style": [
+      "cách tân",
+      "thanh lịch",
+      "sang trọng"
+    ],
+    "pattern": [
+      "thêu hoa"
+    ],
+    "cultural_context": "Mẫu áo dài cách tân hiện đại dành cho nam giới, thường được chú rể lựa chọn trong lễ dạm ngõ, ăn hỏi, lễ thành hôn hoặc mặc trong các sự kiện giao lưu văn hóa trang trọng.",
+    "warnings": []
+  },
+  {
+    "id": "ao_dai_0012",
+    "image": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000002.jpg",
+    "name": "Áo dài cách tân trẻ em màu đỏ họa tiết trăng sao",
+    "description": "Set áo dài cách tân cho bé trai và bé gái làm từ chất liệu nhung mềm màu đỏ nổi bật. Áo bé trai có phom suông, cổ đứng thấp truyền thống, tay dài, kết hợp cùng quần lụa ống rộng màu trắng. Áo bé gái thiết kế cổ tròn thoải mái, tay dài bo chun nhẹ, tà áo xòe nhẹ mặc cùng chân váy voan trắng bồng bềnh nhiều tầng. Cả hai áo đều được tạo điểm nhấn bằng họa tiết thêu/đính hình trăng khuyết và các vì sao ánh kim lấp lánh trước ngực.",
+    "occasion": [
+      "Tết",
+      "Lễ hội",
+      "Chụp ảnh kỷ niệm",
+      "Sự kiện",
+      "Dạo phố"
+    ],
+    "color": [
+      "đỏ",
+      "trắng"
+    ],
+    "style": [
+      "cách tân",
+      "trẻ trung"
+    ],
+    "pattern": [
+      "trăng sao",
+      "thêu họa tiết"
+    ],
+    "cultural_context": "Áo dài cách tân cho trẻ nhỏ rất phổ biến trong dịp Tết Nguyên Đán và các ngày lễ truyền thống; sắc đỏ rực rỡ mang ý nghĩa chúc phúc, cầu mong bình an, may mắn và tài lộc cho các bé trong năm mới.",
+    "warnings": []
+  },
+  {
+    "id": "ao_dai_0007",
+    "image": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000002.jpg",
+    "name": "Áo dài quốc phục trắng thêu chim hạc và trúc vàng",
+    "description": "Áo dài phom dáng ôm truyền thống với cổ cao trang trí ánh kim, tay dài đính viền vàng sang trọng. Tà áo dài thêu tỉ mỉ họa tiết đàn chim hạc đỏ vàng bay lượn xen kẽ nhành trúc dát vàng trên nền vải trắng. Phối cùng quần lụa màu vàng hoàng kim bóng và mấn đội đầu mạ vàng kích thước lớn cách điệu hình đôi cánh.",
+    "occasion": [
+      "Sự kiện",
+      "Lễ hội",
+      "Chụp ảnh kỷ niệm"
+    ],
+    "color": [
+      "trắng",
+      "vàng",
+      "đỏ"
+    ],
+    "style": [
+      "sang trọng",
+      "truyền thống",
+      "cách tân"
+    ],
+    "pattern": [
+      "chim hạc",
+      "hoa văn gấm",
+      "thêu hoa"
+    ],
+    "cultural_context": "Thiết kế lấy cảm hứng từ hình tượng chim hạc và cây trúc – những biểu trưng truyền thống đại diện cho sự thanh cao, trường thọ và khí phách kiên cường của văn hóa Việt Nam, kết hợp cùng mấn cách điệu gợi liên tưởng đến hình tượng chim Lạc quyền quý.",
+    "warnings": [
+      "Trang phục mang tính chất biểu diễn nghệ thuật và thi thố quốc tế, không phù hợp cho các bối cảnh đời thường, đi học hay môi trường công sở."
+    ]
+  },
+  {
+    "id": "ao_dai_0050",
+    "image": "data\\raw\\ao_dai\\ao_dai_cach_tân__000009.jpg",
+    "name": "Áo dài cách tân đỏ tay phồng cổ đan dây",
+    "description": "Áo dài cách tân dáng lửng màu đỏ đô, chất liệu vải trơn mềm mại. Phần thân trên thiết kế hiện đại với cổ cut-out đan dây chéo tạo điểm nhấn và tay áo bồng ngắn. Tà áo xẻ ngang hông buông rủ dài qua gối, kết hợp cùng quần suông ống rộng màu trắng và phụ kiện mấn/bờm tóc bện cùng tông đỏ.",
+    "occasion": [
+      "Tết",
+      "Dạo phố",
+      "Chụp ảnh kỷ niệm",
+      "Sự kiện"
+    ],
+    "color": [
+      "đỏ",
+      "trắng"
+    ],
+    "style": [
+      "cách tân",
+      "trẻ trung",
+      "thanh lịch"
+    ],
+    "pattern": [
+      "trơn"
+    ],
+    "cultural_context": "Mẫu áo dài thể hiện xu hướng cách tân hiện đại, pha trộn các đường nét của trang phục dạ tiệc phương Tây (cổ khoét cut-out, tay bồng) trên phom dáng tà áo dài Việt Nam, rất phổ biến trong giới trẻ vào các dịp Tết Nguyên Đán và chụp ảnh đón xuân.",
+    "warnings": [
+      "Thiết kế có phần cổ cut-out cách điệu hở vai/ngực, cần lưu ý không phù hợp với các không gian tâm linh, trang nghiêm như đình chùa hoặc nghi lễ cưới hỏi truyền thống."
+    ]
+  },
+  {
+    "id": "ao_dai_0015",
+    "image": "data\\raw\\ao_dai\\ao_dai_cuới__000003.jpg",
+    "name": "Cặp áo dài cưới đôi màu đỏ thêu chim phượng",
+    "description": "Bộ đôi áo dài cưới màu đỏ tươi sang trọng. Áo dài nữ dáng truyền thống chiết eo thon gọn, cổ trụ thấp, tà dài quét đất phối cùng quần lụa đỏ đồng màu và phụ kiện mấn cài tóc đính hoa. Áo dài nam phom đứng cứng cáp, vạt lửng ngang gối, cổ trụ cách tân hiện đại phối cùng quần âu đen. Cả hai áo đều được điểm xuyết họa tiết thêu chim phượng tinh xảo cùng hoa văn ánh vàng, trắng nổi bật.",
+    "occasion": [
+      "Cưới hỏi",
+      "Chụp ảnh kỷ niệm",
+      "Lễ hội",
+      "Tết"
+    ],
+    "color": [
+      "đỏ"
+    ],
+    "style": [
+      "sang trọng",
+      "thanh lịch",
+      "truyền thống"
+    ],
+    "pattern": [
+      "chim phượng",
+      "thêu hoa"
+    ],
+    "cultural_context": "Sắc đỏ truyền thống trong văn hóa cưới hỏi Việt Nam biểu trưng cho sự may mắn, hạnh phúc lứa đôi và hỷ sự. Họa tiết chim phượng (phụng) tượng trưng cho sự cao quý, đức hạnh và ước nguyện hôn nhân viên mãn, hòa hợp.",
+    "warnings": [
+      "Trang phục có sắc đỏ rực rỡ và họa tiết đôi chim phượng mang tính biểu tượng cao cho cô dâu chú rể, khách mời tham dự đám cưới nên tránh mặc trùng để tôn trọng nhân vật chính."
+    ]
+  }
+]

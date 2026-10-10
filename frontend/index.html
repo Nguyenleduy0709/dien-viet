@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Diện Việt</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f2f3f8;--ink:#14122b;--mut:#5d5b73;--card:#fff;--line:#dcdde8;--acc:#d7263d;--accsoft:#fde6e9;--warn:#fff3d6;--warnink:#6b4a00;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#12111f;--ink:#f1f0fa;--mut:#a9a7c2;--card:#1c1b2e;--line:#2f2d47;--accsoft:#3a1a22;--warn:#3b2f12;--warnink:#f3d98b}}
+:root[data-theme="dark"]{--bg:#12111f;--ink:#f1f0fa;--mut:#a9a7c2;--card:#1c1b2e;--line:#2f2d47;--accsoft:#3a1a22;--warn:#3b2f12;--warnink:#f3d98b}
+*{box-sizing:border-box}html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Be Vietnam Pro',system-ui,sans-serif;line-height:1.55}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+header{display:flex;justify-content:space-between;align-items:center;padding:18px 0}
+.logo{font-weight:800;letter-spacing:-.02em}.logo i{font-style:normal;color:var(--acc)}
+header span{color:var(--mut);font-size:.85rem}
+.hero{padding:36px 0 18px}
+h1{font-size:clamp(2.4rem,7vw,4.6rem);line-height:1.02;letter-spacing:-.04em;margin:0 0 14px;font-weight:800;max-width:14ch}
+.slogan{color:var(--mut);max-width:46ch;margin:0 0 26px;font-size:1.05rem}
+.search{display:flex;gap:8px;background:var(--card);border:1.5px solid var(--ink);border-radius:999px;padding:6px 6px 6px 22px;max-width:720px}
+.search input{flex:1;min-width:0;border:0;background:none;color:var(--ink);font:inherit;outline:none}
+.btn{border:0;background:var(--acc);color:#fff;font:inherit;font-weight:700;border-radius:999px;padding:12px 26px;cursor:pointer}
+.btn:hover{filter:brightness(1.08)}
+:focus-visible{outline:3px solid var(--acc);outline-offset:2px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 6px;align-items:center}
+.chips small{color:var(--mut);width:100%;margin-top:4px}
+.chip{border:1.5px solid var(--line);background:var(--card);color:var(--ink);font:inherit;font-size:.9rem;border-radius:999px;padding:7px 15px;cursor:pointer}
+.chip[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.clear{background:none;border:0;color:var(--mut);text-decoration:underline;font:inherit;cursor:pointer;font-size:.9rem}
+.status{margin:30px 0 14px;color:var(--mut)}.status b{color:var(--ink)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:22px}
+.card{background:var(--card);border-radius:22px;overflow:hidden;border:1px solid var(--line);display:flex;flex-direction:column}
+.pic{height:330px;display:flex;align-items:flex-end;justify-content:center;position:relative;background:var(--line)}
+.pic svg{width:100%;height:100%;object-fit:contain;display:block}
+.pic img{width:100%;height:100%;object-fit:cover;display:block}
+.pic .ph{display:none;width:100%;height:100%}
+.badge{position:absolute;top:14px;right:14px;background:var(--card);color:var(--ink);font-weight:800;border-radius:999px;padding:5px 12px;font-size:.9rem}
+.body{padding:18px 20px 22px;display:flex;flex-direction:column;gap:12px}
+.body h3{margin:0;font-size:1.2rem;letter-spacing:-.01em}.body p{margin:0;color:var(--mut);font-size:.93rem}
+.tags{display:flex;flex-wrap:wrap;gap:6px}.tag{background:var(--accsoft);color:var(--ink);border-radius:999px;padding:3px 11px;font-size:.8rem}
+.bar{height:6px;background:var(--line);border-radius:9px;overflow:hidden}.bar div{height:100%;background:var(--acc)}
+.why{font-size:.9rem;border-left:3px solid var(--acc);padding-left:12px}.why b{display:block;margin-bottom:2px}
+details{font-size:.9rem;border-top:1px solid var(--line);padding-top:10px}summary{cursor:pointer;font-weight:700}details p{margin-top:6px}
+.warn{background:var(--warn);color:var(--warnink);border-radius:12px;padding:10px 12px;font-size:.88rem}
+.empty{padding:40px;border:1.5px dashed var(--line);border-radius:22px;text-align:center;color:var(--mut)}
+.culture{margin:64px 0 50px}.culture h2{font-size:1.8rem;letter-spacing:-.03em;margin:0 0 16px}
+.cgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.cgrid div{padding:18px;border-radius:18px;background:var(--card);border:1px solid var(--line);font-size:.92rem}.cgrid b{display:block;margin-bottom:4px}
+footer{color:var(--mut);font-size:.8rem;padding:0 0 40px}
+@media (prefers-reduced-motion:no-preference){.card{animation:in .35s ease both}@keyframes in{from{opacity:0;transform:translateY(8px)}}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header><div class="logo">Diện <i>Việt</i></div><span>Bản demo · dữ liệu mẫu</span></header>
+  <section class="hero">
+    <h1>Mặc truyền thống, theo kiểu của bạn.</h1>
+    <p class="slogan">Mô tả bộ áo dài bạn muốn, hoặc chọn nhanh dịp, màu và phong cách. Mỗi gợi ý đều kèm lý do và đôi điều về văn hóa.</p>
+    <form class="search" id="form" role="search">
+      <input id="q" type="text" aria-label="Mô tả áo dài bạn muốn" placeholder="Tôi muốn áo dài đỏ, trẻ trung để mặc đi Tết" autocomplete="off">
+      <button class="btn" type="submit">Tìm áo dài</button>
+    </form>
+    <div class="chips" id="chips" role="group" aria-label="Chọn nhanh"></div>
+  </section>
+  <div class="status" id="status" aria-live="polite"></div>
+  <section class="grid" id="results"></section>
+  <section class="culture"><h2>Mặc đúng, mặc đẹp</h2><div class="cgrid" id="culture"></div></section>
+  <footer>Nội dung văn hóa trong bản demo là dữ liệu mẫu, cần đối chiếu nguồn tham khảo trước khi công bố.</footer>
+</div>
+
+<script>
+/* DATA LAYER */
+const API_BASE = 'http://localhost:8000';
+
+const CHIPS = [
+  ['occasion','Tết'],['occasion','Cưới hỏi'],['occasion','Lễ hội'],
+  ['color','đỏ','Đỏ'],['color','vàng','Vàng'],['color','trắng','Trắng'],
+  ['style','truyền thống','Truyền thống'],['style','trẻ trung','Trẻ trung'],['style','thanh lịch','Thanh lịch']
+].map(([f,v,l])=>({k:f+':'+v,l:l||v}));
+
+const NOTES = [
+ {title:'Áo dài là gì?',text:'Trang phục có thân dài xẻ tà, mặc cùng quần. Dáng hiện nay phát triển qua nhiều giai đoạn từ áo ngũ thân.'},
+ {title:'Chọn theo dịp',text:'Tết ưa màu tươi, lễ nghi trang trọng ưa dáng truyền thống, đi chơi có thể chọn kiểu cách tân.'},
+ {title:'Phối đồ có chủ ý',text:'Giữ một điểm nhấn (họa tiết hoặc phụ kiện) và để phần còn lại gọn, bộ đồ sẽ hài hòa hơn.'}];
+
+const ApiProvider = {
+  async search({query,filters,top_k=5}){
+    const r = await fetch(API_BASE+'/search',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({query,filters,top_k})
+    });
+    if(!r.ok) throw new Error('HTTP '+r.status);
+    return (await r.json()).results;
+  }
+};
+const PROVIDER = ApiProvider;
+
+/* ==== SVG placeholder ==== */
+function dressPlaceholder(name, visual){
+  const v = visual || {};
+  const bg   = v.bg   || '#f0ece8';
+  const main = v.main || '#c1121f';
+  const acc  = v.accent || '#ffd166';
+  const short = v.short;
+  const outline = v.outline ? `stroke="${main}" stroke-width="2" fill="none"` : `fill="${main}"`;
+  const bodyH = short ? 200 : 280;
+  const bodyY = short ? 290 : 210;
+
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="300" height="400" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="${bg}"/>
+  <!-- body/ao dai -->
+  <ellipse cx="150" cy="270" rx="70" ry="${bodyH/2}" ${outline}/>
+  ${!v.outline ? `<ellipse cx="150" cy="270" rx="70" ry="${bodyH/2}" fill="${main}"/>` : ''}
+  <!-- collar -->
+  <ellipse cx="150" cy="190" rx="22" ry="16" fill="${acc}"/>
+  <!-- head -->
+  <ellipse cx="150" cy="155" rx="32" ry="36" fill="#f5cba7"/>
+  <!-- hair -->
+  <path d="M118 145 Q150 110 182 145 Q168 125 150 120 Q132 125 118 145Z" fill="#2c1810"/>
+  <!-- accent dots pattern -->
+  <circle cx="140" cy="240" r="4" fill="${acc}" opacity="0.7"/>
+  <circle cx="155" cy="255" r="3" fill="${acc}" opacity="0.7"/>
+  <circle cx="162" cy="235" r="3" fill="${acc}" opacity="0.6"/>
+  <!-- label -->
+  <text x="150" y="385" text-anchor="middle" font-size="11" font-family="Arial" fill="#666">${escSvg(name)}</text>
+</svg>`;
+}
+
+function escSvg(s){ return String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+/* ==== UI ==== */
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const active=new Set();
+let seq=0;
+
+function card(r,scored){
+  const svgContent = dressPlaceholder(r.name, r.visual);
+  const src = r.image ? (/^https?:/.test(r.image) ? r.image : API_BASE + r.image) : '';
+  const pic = src
+    ? `<img src="${esc(src)}" alt="${esc(r.name)}" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='block'"><div class="ph">${svgContent}</div>`
+    : svgContent;
+  return `<article class="card"><div class="pic">${pic}${scored?`<span class="badge">${Math.round(r.score*100)}% phù hợp</span>`:''}</div>
+  <div class="body"><h3>${esc(r.name)}</h3><p>${esc(r.description)}</p>
+  <div class="tags">${[...r.occasion,...r.color,...r.style,...r.pattern].map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div>
+  ${scored?`<div class="bar" aria-hidden="true"><div style="width:${Math.round(r.score*100)}%"></div></div>`:''}
+  <div class="why"><b>Vì sao được gợi ý?</b>${esc(r.reason)}</div>
+  <details><summary>Thông tin văn hóa</summary><p>${esc(r.cultural_context)}</p></details>
+  ${r.warnings.map(w=>`<div class="warn"><b>Lưu ý:</b> ${esc(w)}</div>`).join('')}</div></article>`;
+}
+
+async function run(){
+  const my=++seq, query=$('q').value.trim();
+  const filters={occasion:[],color:[],style:[],pattern:[]};
+  active.forEach(k=>{const i=k.indexOf(':');filters[k.slice(0,i)].push(k.slice(i+1))});
+  const scored=!!(query||active.size);
+  $('status').textContent='Đang tìm…';
+  let results;
+  try{results=await PROVIDER.search({query,filters,top_k:5})}
+  catch(e){
+    if(my===seq){
+      $('results').innerHTML='<div class="empty" style="grid-column:1/-1">Không kết nối được máy chủ.<br>Hãy kiểm tra backend đang chạy tại <b>http://localhost:8000</b> rồi thử lại.</div>';
+      $('status').textContent='';
+    }
+    return;
+  }
+  if(my!==seq) return;
+  $('status').innerHTML = scored ? (results.length?`<b>${results.length}</b> gợi ý hợp nhất với yêu cầu của bạn.`:'') : 'Gợi ý nổi bật cho bạn';
+  $('results').innerHTML = results.length ? results.map(r=>card(r,scored)).join('') :
+    '<div class="empty" style="grid-column:1/-1">Chưa có mẫu khớp. Thử bớt một lựa chọn hoặc đổi màu, dịp khác.</div>';
+}
+
+function drawChips(){
+  $('chips').innerHTML = CHIPS.map(c=>`<button type="button" class="chip" data-k="${c.k}" aria-pressed="${active.has(c.k)}">${c.l}</button>`).join('')
+    + (active.size?`<button type="button" class="clear" id="clear">Bỏ chọn tất cả</button>`:'')
+    + `<small>Chọn nhiều ô cùng lúc, kết quả cập nhật ngay.</small>`;
+}
+
+$('chips').addEventListener('click',e=>{
+  if(e.target.id==='clear'){active.clear()}
+  else if(e.target.dataset.k){const k=e.target.dataset.k;active.has(k)?active.delete(k):active.add(k)}
+  else return;
+  drawChips();run();
+});
+$('form').addEventListener('submit',e=>{e.preventDefault();run()});
+drawChips();run();
+$('culture').innerHTML=NOTES.map(x=>`<div><b>${esc(x.title)}</b>${esc(x.text)}</div>`).join('');
+</script>
+</body>
+</html>

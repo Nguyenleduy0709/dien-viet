@@ -1,0 +1,1955 @@
+{
+  "dataset_source": "https://huggingface.co/datasets/Dangindev/viet-cultural-vqa",
+  "revision": "cc8be7959e9667e9802053bc7f50677f70ea5730",
+  "total_ao_dai_found": 342,
+  "total_selected": 200,
+  "total_downloaded": 0,
+  "total_skipped_existing": 200,
+  "total_duplicates": 0,
+  "total_errors": 0,
+  "categories_used": [
+    "images/trang_phuc/ao_dai_Việt_Nam",
+    "images/trang_phuc/ao_dai_cach_tân",
+    "images/trang_phuc/ao_dai_cuới",
+    "images/trang_phuc/ao_dai_học_sinh",
+    "images/trang_phuc/ao_dai_nam",
+    "images/trang_phuc/ao_dai_trẻ_em"
+  ],
+  "items": [
+    {
+      "id": "ao_dai_0001",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000001.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000001.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000001.jpg",
+      "size_bytes": 186994,
+      "width": 1366,
+      "height": 2048,
+      "format": "JPEG",
+      "sha256": "a269b31962d0858f57955be07908e71b06fd0b45aa5271f389072c76cc3abfe3",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0002",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000001.jpg",
+      "local_filename": "ao_dai_cach_tân__000001.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000001.jpg",
+      "size_bytes": 202527,
+      "width": 800,
+      "height": 1200,
+      "format": "JPEG",
+      "sha256": "997524eafe4a6a59331cfda214e5c7a2d72dbddde7b3a21e98f1e52e3193c122",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0003",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000001.jpg",
+      "local_filename": "ao_dai_cuới__000001.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000001.jpg",
+      "size_bytes": 379163,
+      "width": 1365,
+      "height": 2048,
+      "format": "JPEG",
+      "sha256": "4b7470fb065a6d501e30307ee9bcc7a3a52857c81ba8f1c288522e754cc39f2e",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0004",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000001.jpg",
+      "local_filename": "ao_dai_học_sinh__000001.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000001.jpg",
+      "size_bytes": 128197,
+      "width": 800,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "a6b92c49d49245ddda05ac189a71e9748cb78d5e34f044a4b2f17f9e630b120c",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0005",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000001.jpg",
+      "local_filename": "ao_dai_nam__000001.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000001.jpg",
+      "size_bytes": 106171,
+      "width": 683,
+      "height": 1024,
+      "format": "JPEG",
+      "sha256": "8b9f0b3b9f3cf28367cf2f7339c2e9c3825374da8d4f634fd9c260190a67ce95",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0006",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000001.jpg",
+      "local_filename": "ao_dai_trẻ_em__000001.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000001.jpg",
+      "size_bytes": 470432,
+      "width": 800,
+      "height": 1200,
+      "format": "JPEG",
+      "sha256": "71feb601688216dc17f0f338c5c7c9025f0e35471e5f0e9301517a658b2103b8",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0007",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000002.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000002.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000002.jpg",
+      "size_bytes": 122316,
+      "width": 800,
+      "height": 1200,
+      "format": "JPEG",
+      "sha256": "fe25ba5a65e68780a929f783240f83279a183d1df4d771a02b1bc61b4a249aba",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0008",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000002.jpg",
+      "local_filename": "ao_dai_cach_tân__000002.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000002.jpg",
+      "size_bytes": 257440,
+      "width": 1140,
+      "height": 1710,
+      "format": "JPEG",
+      "sha256": "669179636801427ecc2c83dbe3f858b0e31b1b4e252688d5428a5253c073dc49",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0009",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000002.jpg",
+      "local_filename": "ao_dai_cuới__000002.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000002.jpg",
+      "size_bytes": 374627,
+      "width": 1242,
+      "height": 1340,
+      "format": "JPEG",
+      "sha256": "b109cac82e194fe00241ff1532a07503c4fe15eec1320228bd5c97047d1ba385",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0010",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000002.jpg",
+      "local_filename": "ao_dai_học_sinh__000002.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000002.jpg",
+      "size_bytes": 105220,
+      "width": 800,
+      "height": 1200,
+      "format": "JPEG",
+      "sha256": "820c2bbab8a0ae4c2ea95d8e3f695bc16e7739d2f83a910206e5b65d62819b08",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0011",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000002.jpg",
+      "local_filename": "ao_dai_nam__000002.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000002.jpg",
+      "size_bytes": 63943,
+      "width": 1000,
+      "height": 1500,
+      "format": "JPEG",
+      "sha256": "7fd9062870dece74419e0c9eccda5b1ef2a26042fe4548ea8182aa535101165a",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0012",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000002.jpg",
+      "local_filename": "ao_dai_trẻ_em__000002.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000002.jpg",
+      "size_bytes": 452058,
+      "width": 1000,
+      "height": 1000,
+      "format": "JPEG",
+      "sha256": "254869dc6771f6b1a0071db8e335ca3bb35db60af900099981a0cbb1815676cf",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0013",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000003.png",
+      "local_filename": "ao_dai_Việt_Nam__000003.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000003.png",
+      "size_bytes": 729782,
+      "width": 660,
+      "height": 990,
+      "format": "PNG",
+      "sha256": "761f19e8fb8f73e9e07f3d4955488b829a72fb06436a80e8fb5999b3673422fe",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0014",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000003.jpg",
+      "local_filename": "ao_dai_cach_tân__000003.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000003.jpg",
+      "size_bytes": 346114,
+      "width": 1365,
+      "height": 2048,
+      "format": "JPEG",
+      "sha256": "e2492ab92f9f0642cf9793d1e99513387c003523c4aee98c24a135648380973e",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0015",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000003.jpg",
+      "local_filename": "ao_dai_cuới__000003.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000003.jpg",
+      "size_bytes": 499653,
+      "width": 1707,
+      "height": 2560,
+      "format": "JPEG",
+      "sha256": "1a18f8d78a6611477a8804627e8ffdd8f9b5a29414bb812863d5a0e2ff7ca7f7",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0016",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000003.jpg",
+      "local_filename": "ao_dai_học_sinh__000003.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000003.jpg",
+      "size_bytes": 30464,
+      "width": 400,
+      "height": 600,
+      "format": "JPEG",
+      "sha256": "0e14a7c7312988facbb2f0fd204c9771d259d6f6164ba01e0c7a1a83a65183bd",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0017",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000003.jpg",
+      "local_filename": "ao_dai_nam__000003.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000003.jpg",
+      "size_bytes": 83653,
+      "width": 640,
+      "height": 959,
+      "format": "JPEG",
+      "sha256": "4d5174a94bb29740f91a83e72cda616cfeed3d321661ccccafc74a27dd1f3927",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0018",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000003.png",
+      "local_filename": "ao_dai_trẻ_em__000003.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000003.png",
+      "size_bytes": 401474,
+      "width": 450,
+      "height": 600,
+      "format": "PNG",
+      "sha256": "fc42bc5a9b5a8c8cdf7f088bebe33918f57f9c364c6af47f478d58d20dfcb58a",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0019",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000004.png",
+      "local_filename": "ao_dai_Việt_Nam__000004.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000004.png",
+      "size_bytes": 48559,
+      "width": 480,
+      "height": 720,
+      "format": "JPEG",
+      "sha256": "099f40eb0b946168f006045f01fef8f41d899433e7bb75b919909811ec4c0662",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0020",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000004.jpg",
+      "local_filename": "ao_dai_cach_tân__000004.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000004.jpg",
+      "size_bytes": 184169,
+      "width": 766,
+      "height": 1146,
+      "format": "JPEG",
+      "sha256": "b5b1b8116d3a4edc5b18d6bfebad891859cff9b8184f86e5eaf407d877c8182f",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0021",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000004.jpg",
+      "local_filename": "ao_dai_cuới__000004.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000004.jpg",
+      "size_bytes": 617817,
+      "width": 1365,
+      "height": 2048,
+      "format": "JPEG",
+      "sha256": "8754048c6a892c711648ac4b93906fad9bfb8222a17fb25ab6374eb34ebf10bc",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0022",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000004.png",
+      "local_filename": "ao_dai_học_sinh__000004.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000004.png",
+      "size_bytes": 268412,
+      "width": 800,
+      "height": 1248,
+      "format": "PNG",
+      "sha256": "4426d7ac7babd7c12e3527bd4cfb5cec9ca64af64108ca6b5de3cc76dd0f4960",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0023",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000004.jpg",
+      "local_filename": "ao_dai_nam__000004.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000004.jpg",
+      "size_bytes": 315098,
+      "width": 1366,
+      "height": 2048,
+      "format": "JPEG",
+      "sha256": "c6700ff0885e3dfe71d348f9dc6173f38ee30ff1a88673fa6eebedf8b29308e7",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0024",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000004.jpg",
+      "local_filename": "ao_dai_trẻ_em__000004.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000004.jpg",
+      "size_bytes": 108876,
+      "width": 900,
+      "height": 1350,
+      "format": "JPEG",
+      "sha256": "e52126f7d693cc282c4517649c9788ab4a493c88eba2a0315385d68b3881acea",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0025",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000005.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000005.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000005.jpg",
+      "size_bytes": 178958,
+      "width": 689,
+      "height": 459,
+      "format": "JPEG",
+      "sha256": "642fc96f5a86e13f13e874a32f577c3721c84d5bc2b25b7c23f87ed9bc0ee12b",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0026",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000005.jpg",
+      "local_filename": "ao_dai_cach_tân__000005.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000005.jpg",
+      "size_bytes": 265819,
+      "width": 1361,
+      "height": 2048,
+      "format": "JPEG",
+      "sha256": "91a249fa3c289bc0cb0dd3e721228f77220c50dd8b5033f2a9aa5a496e169d21",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0027",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000005.jpg",
+      "local_filename": "ao_dai_cuới__000005.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000005.jpg",
+      "size_bytes": 318419,
+      "width": 1080,
+      "height": 1620,
+      "format": "JPEG",
+      "sha256": "b18119f165f0a12179fc58f7408acbd5a4dc0a41734294fe8553eac2d9c148b6",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0028",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000005.jpg",
+      "local_filename": "ao_dai_học_sinh__000005.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000005.jpg",
+      "size_bytes": 99775,
+      "width": 1080,
+      "height": 1080,
+      "format": "JPEG",
+      "sha256": "6f15ad48902b3859158b9716d45ac814cefc1b33ccf81e4b2d1b45dd8d59ae23",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0029",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000005.jpg",
+      "local_filename": "ao_dai_nam__000005.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000005.jpg",
+      "size_bytes": 167179,
+      "width": 1366,
+      "height": 2048,
+      "format": "JPEG",
+      "sha256": "d2d78353787f6cdf57e67abd74c3a7a20bfe5ce7a0319d21e3d6603b107dcb39",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0030",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000005.png",
+      "local_filename": "ao_dai_trẻ_em__000005.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000005.png",
+      "size_bytes": 371194,
+      "width": 450,
+      "height": 600,
+      "format": "PNG",
+      "sha256": "121126ff2df0cdc3525a56ced6fdbc6d1868650a4f1ea517f33dc79f4be54817",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0031",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000006.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000006.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000006.jpg",
+      "size_bytes": 402156,
+      "width": 720,
+      "height": 1081,
+      "format": "JPEG",
+      "sha256": "273062f5aacc61910c3e67e84d7654fb5fac70da04f78f33f4755bae0e2208ae",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0032",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000006.png",
+      "local_filename": "ao_dai_cach_tân__000006.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000006.png",
+      "size_bytes": 1365171,
+      "width": 1125,
+      "height": 1500,
+      "format": "PNG",
+      "sha256": "0ffd74856a283f05f37be510b5f6e5ffeb5558924201d5f3453f93547ffdc7ae",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0033",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000006.jpg",
+      "local_filename": "ao_dai_cuới__000006.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000006.jpg",
+      "size_bytes": 96228,
+      "width": 600,
+      "height": 899,
+      "format": "JPEG",
+      "sha256": "8fa9abfc96e2d79663c73f51fc9d344ab240b26f6a20a423990eb7a60ee0d615",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0034",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000006.jpg",
+      "local_filename": "ao_dai_học_sinh__000006.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000006.jpg",
+      "size_bytes": 190590,
+      "width": 600,
+      "height": 902,
+      "format": "JPEG",
+      "sha256": "654dd049c5b0158c05367d6f9ba26c2f985cbf700fe33ebac5e7ea955ccd35ae",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0035",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000006.jpg",
+      "local_filename": "ao_dai_nam__000006.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000006.jpg",
+      "size_bytes": 136222,
+      "width": 1366,
+      "height": 2048,
+      "format": "JPEG",
+      "sha256": "8c00ec96099be67ed543f3645ed3a216894c130b229b8397df350aed3b1e7249",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0036",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000006.jpg",
+      "local_filename": "ao_dai_trẻ_em__000006.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000006.jpg",
+      "size_bytes": 96887,
+      "width": 619,
+      "height": 720,
+      "format": "JPEG",
+      "sha256": "81d2aa65c66dd5f10b73fe06cd91747653839afae9facf461993b499acd744ad",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0037",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000007.png",
+      "local_filename": "ao_dai_Việt_Nam__000007.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000007.png",
+      "size_bytes": 2276228,
+      "width": 1125,
+      "height": 1500,
+      "format": "PNG",
+      "sha256": "1af106d57f7cdaf338a9f3fa9615f7fc7deb1a49280a1f0e566006dc8a7eaa80",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0038",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000007.jpg",
+      "local_filename": "ao_dai_cach_tân__000007.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000007.jpg",
+      "size_bytes": 347822,
+      "sha256": "e32ebfd51064049bc86fb1417ee96eef91d1e412accc1a2bf0d28fdc7add1db0",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0039",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000007.jpg",
+      "local_filename": "ao_dai_cuới__000007.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000007.jpg",
+      "size_bytes": 311076,
+      "sha256": "47dae3b15ad6ed61c10aa9a620d4742f1685fdd6ab1938aca1bebd46ec8e8137",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0040",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000007.jpg",
+      "local_filename": "ao_dai_học_sinh__000007.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000007.jpg",
+      "size_bytes": 156756,
+      "sha256": "ad3a43c63c7bbe9918d1715b7a6d19bf477862a8f0bbbdb8737a02263b15c6ba",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0041",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000007.jpg",
+      "local_filename": "ao_dai_nam__000007.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000007.jpg",
+      "size_bytes": 172624,
+      "sha256": "b880421256d1ed854669c339b0c99fe07815e94774703946a8f328f2ab314894",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0042",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000007.jpg",
+      "local_filename": "ao_dai_trẻ_em__000007.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000007.jpg",
+      "size_bytes": 426123,
+      "sha256": "5935dd864ecae2d2d4dd91e38a01b0141d20a92648486c7ef5d832022998a43d",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0043",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000008.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000008.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000008.jpg",
+      "size_bytes": 210617,
+      "sha256": "66784fdbc93754ebb7184a1611b2800543bc88c755fff70fb0e43472a59983b1",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0044",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000008.jpg",
+      "local_filename": "ao_dai_cach_tân__000008.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000008.jpg",
+      "size_bytes": 44860,
+      "sha256": "393cef3cf41514d093c5c607c5c0636e9aaebeb58352f57a8ea112477093a1be",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0045",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000008.jpg",
+      "local_filename": "ao_dai_cuới__000008.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000008.jpg",
+      "size_bytes": 152911,
+      "sha256": "1d5afe4c31838be5754e798dcd769fec0b8bbc5ea5a3cfb604d52c081d80ff82",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0046",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000008.png",
+      "local_filename": "ao_dai_học_sinh__000008.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000008.png",
+      "size_bytes": 165435,
+      "sha256": "e80159ee3524dcd0922322cc13b33b54b0bd5e7b15f1e99044e4e2081a43c7f6",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0047",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000008.jpg",
+      "local_filename": "ao_dai_nam__000008.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000008.jpg",
+      "size_bytes": 212360,
+      "sha256": "e61a08391661206993d473539f7386a1552e1b12c282e066e7074a6f2e039dc8",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0048",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000008.jpg",
+      "local_filename": "ao_dai_trẻ_em__000008.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000008.jpg",
+      "size_bytes": 131136,
+      "sha256": "3d59d5704b325bd5d5095a5557b6b346acca53f097efae1ca8b67b95c4972a41",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0049",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000009.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000009.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000009.jpg",
+      "size_bytes": 156594,
+      "sha256": "07d23a48c2ba7720513cbd56fc735f4c5022cede7b17f159e52a0097227c8f9e",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0050",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000009.jpg",
+      "local_filename": "ao_dai_cach_tân__000009.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000009.jpg",
+      "size_bytes": 288361,
+      "sha256": "fc18916551de8007962d0d85eec9d9882af6199810c8271bdb72b7e8e7ca90c9",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0051",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000009.jpg",
+      "local_filename": "ao_dai_cuới__000009.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000009.jpg",
+      "size_bytes": 1684561,
+      "width": 1366,
+      "height": 2048,
+      "format": "JPEG",
+      "sha256": "7d3a0c99ad7b2d9baabf0d133c73aa2feb8ae30c1fe5ab9653e8f432d1be9778",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0052",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000009.jpg",
+      "local_filename": "ao_dai_học_sinh__000009.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000009.jpg",
+      "size_bytes": 37875,
+      "sha256": "d50c9aaf92801bacb96935cd8bf8635c24fae8b043ccd72e0656b9ce5e8c2e61",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0053",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000009.jpg",
+      "local_filename": "ao_dai_nam__000009.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000009.jpg",
+      "size_bytes": 84571,
+      "sha256": "b7ddd48b7c7d94710ece509a86fb86fed48dd6018024865cf64d80bbde016229",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0054",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000009.jpg",
+      "local_filename": "ao_dai_trẻ_em__000009.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000009.jpg",
+      "size_bytes": 637420,
+      "sha256": "287e018af2e0524dff5f504f0c97a26a4b63605595d3fad00f36ba28471efb3a",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0055",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000010.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000010.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000010.jpg",
+      "size_bytes": 112782,
+      "sha256": "058d655d8cf593e00883d65d96d8ed5e0ad03319a386f3efade299d9d4c30560",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0056",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000010.jpg",
+      "local_filename": "ao_dai_cach_tân__000010.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000010.jpg",
+      "size_bytes": 85309,
+      "sha256": "ac6a6d54ede526d9e9537a9e83f9af7c56bead83cd9a49c2e2ac59be32fb7263",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0057",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000010.jpg",
+      "local_filename": "ao_dai_cuới__000010.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000010.jpg",
+      "size_bytes": 139862,
+      "sha256": "7eaebe1389665e5c74f83dd62730a82121facdf56357ed03f88c0d65d20fb4a9",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0058",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000010.jpg",
+      "local_filename": "ao_dai_học_sinh__000010.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000010.jpg",
+      "size_bytes": 102831,
+      "sha256": "c9d81809f708c7ee44628da044b006ed03cc592d69cd9897ce4bdaf6117ad308",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0059",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000010.jpg",
+      "local_filename": "ao_dai_nam__000010.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000010.jpg",
+      "size_bytes": 116227,
+      "sha256": "db17d2569185f0605961803a15ac050a0da8f6e408ec3b64296c033ef6cee03d",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0060",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000010.jpg",
+      "local_filename": "ao_dai_trẻ_em__000010.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000010.jpg",
+      "size_bytes": 123705,
+      "sha256": "d431cc5593b394b4bf1c703039532414474b6dc2fd3c18d2e3c5cee0439fc622",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0061",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000011.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000011.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000011.jpg",
+      "size_bytes": 208512,
+      "sha256": "1ad9fd4ee5eda70679b1634de6a25b58e7501ee216b874c09e096fa44c47e617",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0062",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000011.jpg",
+      "local_filename": "ao_dai_cach_tân__000011.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000011.jpg",
+      "size_bytes": 292695,
+      "sha256": "f07ee89070ce4951df19d8c533706b870394735b43ece129d7f2187cfb306cfd",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0063",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000011.jpg",
+      "local_filename": "ao_dai_cuới__000011.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000011.jpg",
+      "size_bytes": 120079,
+      "sha256": "7d61dc1f287c66b237300da56112288fbcbe3033ba9fc13c7f9de27b4520c83f",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0064",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000011.jpg",
+      "local_filename": "ao_dai_học_sinh__000011.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000011.jpg",
+      "size_bytes": 152607,
+      "sha256": "6296c03531434f754469144ff1b45156f16ad11085c7a42649714a9c83eeee43",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0065",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000011.jpg",
+      "local_filename": "ao_dai_nam__000011.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000011.jpg",
+      "size_bytes": 421298,
+      "sha256": "7f1f1c5baeaf2589d52ebfd341cd0841050180b51fdb64006ecf413b02ae66e2",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0066",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000011.jpg",
+      "local_filename": "ao_dai_trẻ_em__000011.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000011.jpg",
+      "size_bytes": 823854,
+      "sha256": "72c0734701192cd0f4b47a393e31da0e01164ef1e59a3373aed8e1d4c1c17d64",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0067",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000012.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000012.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000012.jpg",
+      "size_bytes": 202950,
+      "sha256": "723599577d879a7c32162c8bd5bf927589c6a27d7f51484bba23f33c0167b589",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0068",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000012.jpg",
+      "local_filename": "ao_dai_cach_tân__000012.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000012.jpg",
+      "size_bytes": 119964,
+      "sha256": "e8e0eb414c57670bc3a778b99c00eeb354fdc64c20874f8e157ccea872f87a58",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0069",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000012.jpg",
+      "local_filename": "ao_dai_cuới__000012.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000012.jpg",
+      "size_bytes": 1535485,
+      "sha256": "5849accdb896bc984562eeb6375f3fd3ac2858f712119b4fd0acb3513d947a63",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0070",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000012.jpg",
+      "local_filename": "ao_dai_học_sinh__000012.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000012.jpg",
+      "size_bytes": 62035,
+      "sha256": "ef06c2d9fa1a97ef0a3a95f430d74e04d5b43de7b77d414623b9017ac76f971e",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0071",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000012.jpg",
+      "local_filename": "ao_dai_nam__000012.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000012.jpg",
+      "size_bytes": 176172,
+      "sha256": "f3197fb32e8c385f08bd7f945e5a3a90725747bc6cf48543aa3122e47365b990",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0072",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000012.jpg",
+      "local_filename": "ao_dai_trẻ_em__000012.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000012.jpg",
+      "size_bytes": 55396,
+      "sha256": "7664a4c73949006c55fccbc3c27a79f06d451fa011b0ddc648defe09b4b1e884",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0073",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000013.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000013.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000013.jpg",
+      "size_bytes": 530016,
+      "sha256": "ac2766600c9fe4351b421649824c14fe27b73f512c08d448fbd7b6a9c330e331",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0074",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000013.jpg",
+      "local_filename": "ao_dai_cach_tân__000013.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000013.jpg",
+      "size_bytes": 101250,
+      "sha256": "a7dfa3a17265289ecfa3549e9fd0a88099fcc34637c27f3960ed708b7409d3e2",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0075",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000013.jpg",
+      "local_filename": "ao_dai_cuới__000013.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000013.jpg",
+      "size_bytes": 344347,
+      "sha256": "0ce94ae79bd89603a34fc90ddd54f7c0547bb58dd25568b6967ea9e96a1946cd",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0076",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000013.jpg",
+      "local_filename": "ao_dai_học_sinh__000013.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000013.jpg",
+      "size_bytes": 87109,
+      "sha256": "2f9c681959538cbfb5cb3c9852d99eda994ecf58afd48e09632edf7cac08416b",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0077",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000013.jpg",
+      "local_filename": "ao_dai_nam__000013.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000013.jpg",
+      "size_bytes": 58549,
+      "sha256": "6ba7b3b8516c903dc15d9fec4b8a3d25c1e6638051810c106b4c469902efd603",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0078",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000013.jpg",
+      "local_filename": "ao_dai_trẻ_em__000013.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000013.jpg",
+      "size_bytes": 512799,
+      "sha256": "ce27c707985d0e9d1bfdbe9fc2747bd3711064c1f42eafed3beb8253f474042c",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0079",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000014.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000014.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000014.jpg",
+      "size_bytes": 49439,
+      "sha256": "4611aafcf14761184aad393b6abda2553db485d16ccb75b89bdf9aea9e4505a9",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0080",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000014.jpg",
+      "local_filename": "ao_dai_cach_tân__000014.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000014.jpg",
+      "size_bytes": 258206,
+      "sha256": "77afb27e37d4e5436f9799bbc3151624f592ba3546481a19d04a86ecef8ea2ba",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0081",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000014.jpg",
+      "local_filename": "ao_dai_cuới__000014.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000014.jpg",
+      "size_bytes": 627001,
+      "width": 800,
+      "height": 1200,
+      "format": "JPEG",
+      "sha256": "e4def60e2f83f90a02a097ae9e15c2760b4dec75a37c03f05ee6c677ee835ccd",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0082",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000014.jpg",
+      "local_filename": "ao_dai_học_sinh__000014.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000014.jpg",
+      "size_bytes": 238527,
+      "sha256": "7c5caffdcb693c4e1369e766cb769d9e329a2f41c9d44cd1e7d64657f6ca1188",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0083",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000014.jpg",
+      "local_filename": "ao_dai_nam__000014.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000014.jpg",
+      "size_bytes": 244393,
+      "sha256": "41ab7c2a6130e2ff7ffd68e071c7b210c4741cc4f455421c93ca32282d74d18f",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0084",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000014.jpg",
+      "local_filename": "ao_dai_trẻ_em__000014.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000014.jpg",
+      "size_bytes": 188404,
+      "sha256": "febc779c6ec4a29dc225c2d6e91466e0e571e77ba928268aca0e951bffe89075",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0085",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000015.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000015.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000015.jpg",
+      "size_bytes": 104752,
+      "sha256": "710710e6bad69682874e9b70ae5b2f726b4b6af2ac2e341261a1802fa737201e",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0086",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000015.jpg",
+      "local_filename": "ao_dai_cach_tân__000015.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000015.jpg",
+      "size_bytes": 625231,
+      "sha256": "b85e6e363a99d14fcd8b935b0f6f8bfd7f09ca94bfdfa3a9e80428138bad7647",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0087",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000015.jpg",
+      "local_filename": "ao_dai_cuới__000015.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000015.jpg",
+      "size_bytes": 398712,
+      "sha256": "b1982fe4699a22dbc4712bdd7b139a8afc5cc090cc6c94bdbb1ca18dd5042959",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0088",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000015.jpg",
+      "local_filename": "ao_dai_học_sinh__000015.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000015.jpg",
+      "size_bytes": 63351,
+      "sha256": "a6035aaafe1b7bcbfa8322faa4fee1b9add8e412e3e946d85149c325335d3fdb",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0089",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000015.jpg",
+      "local_filename": "ao_dai_nam__000015.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000015.jpg",
+      "size_bytes": 64238,
+      "sha256": "e581e856ad07a5001f85996aaaa3ac2ceb0383d3bdabf315d1e6c2a89b9f03b8",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0090",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000015.jpg",
+      "local_filename": "ao_dai_trẻ_em__000015.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000015.jpg",
+      "size_bytes": 63826,
+      "sha256": "2c575cf16410f4d21264b76f5fccf48ba9f342b63d5fe904eb427aa95f680eb7",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0091",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000016.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000016.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000016.jpg",
+      "size_bytes": 85546,
+      "sha256": "3c713ad30961f9d42680cc970c494fdb20eecbe7c75f1b5f58d83c3f87cd2c89",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0092",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000016.jpg",
+      "local_filename": "ao_dai_cach_tân__000016.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000016.jpg",
+      "size_bytes": 117707,
+      "sha256": "2e3bbf2f2f91cae91f8c97ebf4772571e41b7be08f11d0a8e5835e7f075de72a",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0093",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000016.jpg",
+      "local_filename": "ao_dai_cuới__000016.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000016.jpg",
+      "size_bytes": 42792,
+      "sha256": "77a593b7c06bba71296b4eebc10fb3514497ae832b01dc71f48e9fb4e107db69",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0094",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000016.jpg",
+      "local_filename": "ao_dai_học_sinh__000016.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000016.jpg",
+      "size_bytes": 50994,
+      "sha256": "523d9f3a10ed9fc2c2b000772e04d19909dd288132784ac97346a4bec65e0745",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0095",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000016.jpg",
+      "local_filename": "ao_dai_nam__000016.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000016.jpg",
+      "size_bytes": 357883,
+      "width": 1274,
+      "height": 1898,
+      "format": "JPEG",
+      "sha256": "99424cbe4b5ebc08520905d547f81c92d8ccdca2c437352b3818e4334f181eb4",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0096",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000016.jpg",
+      "local_filename": "ao_dai_trẻ_em__000016.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000016.jpg",
+      "size_bytes": 340157,
+      "sha256": "9dfc7a6fbd0cf52ed88c9fba85f1a84916c7dabe9e6d6dd01bcafa8993d80097",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0097",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000017.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000017.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000017.jpg",
+      "size_bytes": 182027,
+      "sha256": "7e6db141000e0ac1b4529adea30822de13a0c0d7c20e0bce4820b97daada36ad",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0098",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000017.jpg",
+      "local_filename": "ao_dai_cach_tân__000017.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000017.jpg",
+      "size_bytes": 107502,
+      "sha256": "fc9f13b42ad82d2d4cd0c6ca613183fb3a9d86155507b53d18078898a1c38b48",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0099",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000017.png",
+      "local_filename": "ao_dai_cuới__000017.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000017.png",
+      "size_bytes": 1834062,
+      "sha256": "ed64d6addffa90cf410099a1158f9251bfff3d92bbb41bef8d65079e846542d7",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0100",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000017.jpg",
+      "local_filename": "ao_dai_học_sinh__000017.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000017.jpg",
+      "size_bytes": 67761,
+      "sha256": "553715ad5f7a7805b4a254b0b7d3970365025895ebd53b84f21ae98cef6379ce",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0101",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000017.jpg",
+      "local_filename": "ao_dai_nam__000017.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000017.jpg",
+      "size_bytes": 247752,
+      "sha256": "acf946bc43fbfd7210a1670a23f3191a8fdaa2d4fb698af3774eec8dc0a0c218",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0102",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000017.jpg",
+      "local_filename": "ao_dai_trẻ_em__000017.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000017.jpg",
+      "size_bytes": 238396,
+      "sha256": "a0631668becd9512fce66c666c11a57379fea263ded40c66ba061b34f7c9da13",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0103",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000018.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000018.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000018.jpg",
+      "size_bytes": 862806,
+      "width": 1500,
+      "height": 2250,
+      "format": "JPEG",
+      "sha256": "392787e065eb78fd40273f6988088e7b959564296ec16a1ebeafb445e45c3a7f",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0104",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000018.jpg",
+      "local_filename": "ao_dai_cach_tân__000018.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000018.jpg",
+      "size_bytes": 314142,
+      "sha256": "9624b19aac5cc2ec9fa138c59be4b2683db2c6ba91945721df033fc931ab9946",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0105",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000018.jpg",
+      "local_filename": "ao_dai_cuới__000018.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000018.jpg",
+      "size_bytes": 118559,
+      "sha256": "65006325705d68fab02def79aecc158e83490668c484012af9d5dc5c0cb57393",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0106",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000018.jpg",
+      "local_filename": "ao_dai_học_sinh__000018.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000018.jpg",
+      "size_bytes": 57836,
+      "sha256": "233cb22c44693048bcfa2fda078efecc113488688b766730c126cb74f39a75a8",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0107",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000018.jpg",
+      "local_filename": "ao_dai_nam__000018.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000018.jpg",
+      "size_bytes": 397131,
+      "sha256": "6f862630f896787c0508c8fd71d023c876a8e5a09bfa1e239f5b7f53719c3571",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0108",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000018.jpg",
+      "local_filename": "ao_dai_trẻ_em__000018.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000018.jpg",
+      "size_bytes": 600764,
+      "sha256": "6030c70d6d1bb84120f48374e0ac51d3280fe787c5b343c7c6c9b94983deed02",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0109",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000019.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000019.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000019.jpg",
+      "size_bytes": 357857,
+      "sha256": "c46aa3bb8835b4aebead2b9233e5f04ff4db0dce1b2ea152e62180892dc71c5e",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0110",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000019.jpg",
+      "local_filename": "ao_dai_cach_tân__000019.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000019.jpg",
+      "size_bytes": 36124,
+      "sha256": "5cac83111b46ae354d762c2f9e1c4333b8530109360f6cecb202f47230424f92",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0111",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000019.jpg",
+      "local_filename": "ao_dai_cuới__000019.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000019.jpg",
+      "size_bytes": 330997,
+      "sha256": "0b3762ac8eb1311a0b35bba12dfad9ff7036809ab2cbd664d2c5f77c17ceabff",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0112",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000019.jpg",
+      "local_filename": "ao_dai_học_sinh__000019.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000019.jpg",
+      "size_bytes": 52904,
+      "sha256": "8dfb8b23e228441c86958508dd7b823ffaf56f9228ea3d9b05185d538d78f835",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0113",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000019.jpg",
+      "local_filename": "ao_dai_nam__000019.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000019.jpg",
+      "size_bytes": 344279,
+      "sha256": "2ef8bdf05de220dcbca7d5a6cb87cf4b708e61b54e866200adf9b8fa815a0fc4",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0114",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000019.jpg",
+      "local_filename": "ao_dai_trẻ_em__000019.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000019.jpg",
+      "size_bytes": 80565,
+      "sha256": "1cf3c8a69c292669c3565a883b9ca92f66c3a3419eed0993da3dc76f471ff1d9",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0115",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000020.png",
+      "local_filename": "ao_dai_Việt_Nam__000020.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000020.png",
+      "size_bytes": 1746352,
+      "width": 1067,
+      "height": 1600,
+      "format": "PNG",
+      "sha256": "a91c86f1046b28dd1389decaa558dc2810971cb76459f3d4450aabe887f27a2d",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0116",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000020.jpg",
+      "local_filename": "ao_dai_cach_tân__000020.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000020.jpg",
+      "size_bytes": 162208,
+      "sha256": "8a92db90f8a2c2cac0385735fbcef8a990d3fec71aefdabca46aa96cd302f2aa",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0117",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000020.jpg",
+      "local_filename": "ao_dai_cuới__000020.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000020.jpg",
+      "size_bytes": 247806,
+      "sha256": "eaefb161bc7e731a6e80c18f860159d8a754ef9f1979980e3b06929e7f7627a6",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0118",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000020.jpg",
+      "local_filename": "ao_dai_học_sinh__000020.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000020.jpg",
+      "size_bytes": 77777,
+      "sha256": "d2dc56a6310c17c3f60ffbadd847d5c1ca43cb3ea670319a55b8bca552780dc3",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0119",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000020.jpg",
+      "local_filename": "ao_dai_nam__000020.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000020.jpg",
+      "size_bytes": 216874,
+      "sha256": "4ef1711456d301e0b23317a9350e063ec0a259f632e6bdf5306c52d2d05e9506",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0120",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000020.jpg",
+      "local_filename": "ao_dai_trẻ_em__000020.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000020.jpg",
+      "size_bytes": 218688,
+      "sha256": "22ab82172378fa6cd45b700c5f37b331e9b889f349c36f87752aeebd935ead85",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0121",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000021.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000021.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000021.jpg",
+      "size_bytes": 33707,
+      "sha256": "86eac9c13d355905e623b3894d24d64b51c70d9f401dcbc765c46e3c17b33080",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0122",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000021.jpg",
+      "local_filename": "ao_dai_cach_tân__000021.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000021.jpg",
+      "size_bytes": 776310,
+      "sha256": "c64402f17214527789d1e06fc84e857cea78575f160d71eaab62e5c2842e0e16",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0123",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000021.jpg",
+      "local_filename": "ao_dai_cuới__000021.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000021.jpg",
+      "size_bytes": 441046,
+      "sha256": "17b3137f4b942ff1d7ad1e092a55b2c6890cabe1d8ce82d9e1e121c538bab08d",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0124",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000021.jpg",
+      "local_filename": "ao_dai_học_sinh__000021.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000021.jpg",
+      "size_bytes": 100756,
+      "sha256": "3c9fa264aec7474965477ebac90e795e83a96dca1754a8e3cba0ea725c8d06a6",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0125",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000021.jpg",
+      "local_filename": "ao_dai_nam__000021.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000021.jpg",
+      "size_bytes": 90560,
+      "sha256": "3b0c866084c0e125bebd883bc71fb7f83b66a5e41dd5725b2e6ab54ede058ec6",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0126",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000021.jpg",
+      "local_filename": "ao_dai_trẻ_em__000021.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000021.jpg",
+      "size_bytes": 122358,
+      "sha256": "0e8295d6aded46fd668ea382700abc7ca59ecea90d22f501ef5163e2d36e921d",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0127",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000022.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000022.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000022.jpg",
+      "size_bytes": 130152,
+      "sha256": "af630192ef1f09e940c77304674bffa71a7eb5622a2d7e030a5483e801f59ad0",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0128",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000022.jpg",
+      "local_filename": "ao_dai_cach_tân__000022.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000022.jpg",
+      "size_bytes": 37538,
+      "sha256": "94c87bf98887a4fcc35756d0016c8da743b026c57f4dc89dd33c61380d0b1626",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0129",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000022.jpg",
+      "local_filename": "ao_dai_cuới__000022.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000022.jpg",
+      "size_bytes": 565599,
+      "sha256": "18b03a0816da6d5dffd022e0c74b1b48050170cd7e210fc79ff360937266af68",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0130",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000022.jpg",
+      "local_filename": "ao_dai_học_sinh__000022.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000022.jpg",
+      "size_bytes": 46926,
+      "sha256": "1f445789aae62fd0ea1564005fdba09dd5143de9d1464f63bee635a3f884540d",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0131",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000022.jpg",
+      "local_filename": "ao_dai_nam__000022.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000022.jpg",
+      "size_bytes": 342078,
+      "sha256": "0b8a6d7c867ea26dee92a5343530276049510f5d866f48f4050cf6a2f9cf58fa",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0132",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000022.jpg",
+      "local_filename": "ao_dai_trẻ_em__000022.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000022.jpg",
+      "size_bytes": 81935,
+      "sha256": "964be5f62527a206be4dcfaf42e7bd411251181e2a6b49839f59ce3dbb402d56",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0133",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000023.png",
+      "local_filename": "ao_dai_Việt_Nam__000023.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000023.png",
+      "size_bytes": 1095179,
+      "sha256": "4c0bb3972027ced72ea139938c8365107cbe8e84f63f5f26486508290e9f15d7",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0134",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000023.jpg",
+      "local_filename": "ao_dai_cach_tân__000023.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000023.jpg",
+      "size_bytes": 872888,
+      "sha256": "c31f2aaed04c198f6d99699fb5f5b29ebbcd19907132491983dfc17ad636e0dc",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0135",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000023.jpg",
+      "local_filename": "ao_dai_cuới__000023.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000023.jpg",
+      "size_bytes": 139589,
+      "sha256": "bd3fddb79b01441031dbb94210f8529563247544892ad16b30febea24f30ab53",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0136",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000023.jpg",
+      "local_filename": "ao_dai_học_sinh__000023.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000023.jpg",
+      "size_bytes": 243379,
+      "sha256": "1c70b4c7c4b2a8882add3b7e8853bf605c2ae9100e9b4561e7430ad9166735d7",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0137",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000023.jpg",
+      "local_filename": "ao_dai_nam__000023.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000023.jpg",
+      "size_bytes": 31777,
+      "sha256": "1e98526a99f61a73cce8ce46902871dab2d845615fb14a4a78ded57e5074e31e",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0138",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000023.jpg",
+      "local_filename": "ao_dai_trẻ_em__000023.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000023.jpg",
+      "size_bytes": 405973,
+      "sha256": "cf2c2a1d5031701bc77952d86da05fe773dd1db2e1f37f6065cbab3d9f087e60",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0139",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000024.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000024.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000024.jpg",
+      "size_bytes": 164939,
+      "sha256": "479018f19a06acdd697793936a7757a775f45dbef503bf975bfe652a673c4e58",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0140",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000024.jpg",
+      "local_filename": "ao_dai_cach_tân__000024.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000024.jpg",
+      "size_bytes": 217037,
+      "sha256": "d8b96bff1471b6b7773fa20dae5d03be29f101228e985447aa9030fa85bc354e",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0141",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000024.jpg",
+      "local_filename": "ao_dai_cuới__000024.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000024.jpg",
+      "size_bytes": 135746,
+      "sha256": "12445943fe88f948f6817a518780e2072b38410f1ec0981f59549158da44b902",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0142",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000024.jpg",
+      "local_filename": "ao_dai_học_sinh__000024.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000024.jpg",
+      "size_bytes": 171569,
+      "sha256": "33b8193e3ab9261d06fa7d216de21662c143688c4fe0116742e13c264ea4e5fc",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0143",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000024.jpg",
+      "local_filename": "ao_dai_nam__000024.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000024.jpg",
+      "size_bytes": 384089,
+      "sha256": "ac95ea6eb63637dd04bdb099f9290279d184a88fb763ebfea63f528d8ee2d6c5",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0144",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000024.jpg",
+      "local_filename": "ao_dai_trẻ_em__000024.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000024.jpg",
+      "size_bytes": 726242,
+      "sha256": "a0f6d31801b03cc8c6e84af85e26f900cdcfb3a4f8d5931421335082bf57ab24",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0145",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000025.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000025.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000025.jpg",
+      "size_bytes": 68957,
+      "sha256": "482564eed8955978f1fa5c54c2df81ffe0add4c5a8ef3ec24966ab6a3dc43d49",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0146",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000025.jpg",
+      "local_filename": "ao_dai_cach_tân__000025.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000025.jpg",
+      "size_bytes": 289940,
+      "sha256": "cd016bc28367ea90b56f00d7ffd1c5d91cb2dc2547b5a30ad8a1f70e1fbb6c28",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0147",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000025.jpg",
+      "local_filename": "ao_dai_cuới__000025.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000025.jpg",
+      "size_bytes": 91302,
+      "sha256": "c6875b74c9adf6a965f6d44ba57524ed2b63af5e80945b268bb387dfa1c2e749",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0148",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000025.jpg",
+      "local_filename": "ao_dai_học_sinh__000025.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000025.jpg",
+      "size_bytes": 258458,
+      "sha256": "92db20c9116b27a835b1dc554513d36b3d42372dcbaa5042743bb99eb408ca3b",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0149",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000025.jpg",
+      "local_filename": "ao_dai_nam__000025.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000025.jpg",
+      "size_bytes": 128432,
+      "sha256": "140bdb5fd958bc5eab76f6efc9e2a806d8a0f3324fcf13bbc879c6c6c5bedc63",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0150",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000025.jpg",
+      "local_filename": "ao_dai_trẻ_em__000025.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000025.jpg",
+      "size_bytes": 100025,
+      "sha256": "02267a0b8759d315c7d798ac49d7961653be014ef2061cfddbce50b279f3de56",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0151",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000026.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000026.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000026.jpg",
+      "size_bytes": 228808,
+      "sha256": "aaf9c1751bf236e79b685c95c65bbbf134dc8f3ce16ad23ab3e2fa92047d4aad",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0152",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000026.jpg",
+      "local_filename": "ao_dai_cach_tân__000026.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000026.jpg",
+      "size_bytes": 109726,
+      "sha256": "4b4c43bedfaea4848c65cf6ad6833e2fca7cdd92be9b85b3602b8a59e5ccf2a4",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0153",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000026.jpg",
+      "local_filename": "ao_dai_cuới__000026.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000026.jpg",
+      "size_bytes": 212078,
+      "sha256": "3888d205ccb3bfc384a7678744163da8753c07d70ff875dcf3bab70d4ce5c7cc",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0154",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000026.jpg",
+      "local_filename": "ao_dai_học_sinh__000026.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000026.jpg",
+      "size_bytes": 60448,
+      "sha256": "6db6733658ef1c93983f8bec3ccda9fb54f94d25e62e66508584a53c7b7a6b2a",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0155",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000026.jpg",
+      "local_filename": "ao_dai_nam__000026.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000026.jpg",
+      "size_bytes": 120696,
+      "sha256": "b3ee8e8b097e96074b1296d0ac5cfa61b9d5f03b22964ccba931855c37b5c007",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0156",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000026.jpg",
+      "local_filename": "ao_dai_trẻ_em__000026.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000026.jpg",
+      "size_bytes": 366277,
+      "sha256": "920b94a74ec25d6ea4fba01d120d2cc7100db1e3fb272a3a6a504c0be31dcf98",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0157",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000027.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000027.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000027.jpg",
+      "size_bytes": 145042,
+      "sha256": "09223236532d8d9a772349e1dcfab48010b386580e50bc366c89698a5736400f",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0158",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000027.jpg",
+      "local_filename": "ao_dai_cach_tân__000027.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000027.jpg",
+      "size_bytes": 160642,
+      "sha256": "7381b71ec1c93995770b355bff2ec0eef488e7d5f9853c0a78e3363b445541ea",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0159",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000027.jpg",
+      "local_filename": "ao_dai_cuới__000027.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000027.jpg",
+      "size_bytes": 112315,
+      "sha256": "9125e3d36bec760a75c2b092d9e3c03973719e0504c4830f89cc6545e5e10037",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0160",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000027.jpg",
+      "local_filename": "ao_dai_học_sinh__000027.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000027.jpg",
+      "size_bytes": 31421,
+      "sha256": "b2159266e4c09fd5a67127b2855f99b4d5f968675ca1159828a0fb017c27546d",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0161",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000027.jpg",
+      "local_filename": "ao_dai_nam__000027.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000027.jpg",
+      "size_bytes": 70739,
+      "sha256": "10d3fde927dc63b7d620026b7289aceb6351af93535259f6312460cfebd1ad2c",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0162",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000027.png",
+      "local_filename": "ao_dai_trẻ_em__000027.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000027.png",
+      "size_bytes": 532625,
+      "sha256": "057b9b8ff2c2275750b3abd0dd499048cd61c0e4c62d59be9c84e9ccd4bf0628",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0163",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000028.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000028.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000028.jpg",
+      "size_bytes": 164777,
+      "sha256": "3edfc9447f9ad0c28f2c2634499b58b5844a576f4859a285d0e512ebdb0bf441",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0164",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000028.jpg",
+      "local_filename": "ao_dai_cach_tân__000028.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000028.jpg",
+      "size_bytes": 252524,
+      "sha256": "aaf3e6b436fe2c5403c37cce8e8699c1c0e4f79bbb4d911c804c945a1b837622",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0165",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000028.jpg",
+      "local_filename": "ao_dai_cuới__000028.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000028.jpg",
+      "size_bytes": 164497,
+      "sha256": "52001d82cc7746b9aa45ec4cdbdf75fa4ce25347f0935baef0f75758d7430707",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0166",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000028.png",
+      "local_filename": "ao_dai_học_sinh__000028.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000028.png",
+      "size_bytes": 174340,
+      "sha256": "f4dae517ebea84d32c6c5075fb4165453ae116ebc2616a965719a9ec632a3682",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0167",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000028.jpg",
+      "local_filename": "ao_dai_nam__000028.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000028.jpg",
+      "size_bytes": 127726,
+      "sha256": "b46104b89855dbde71922d008a011f1c8e11a06c0ce49296243baf7b399fbc77",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0168",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000028.jpg",
+      "local_filename": "ao_dai_trẻ_em__000028.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000028.jpg",
+      "size_bytes": 78544,
+      "sha256": "05b79a1a3cfbc733799e641e714e216de4e37a08729aaf16dbdacc0b5692aa6a",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0169",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000029.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000029.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000029.jpg",
+      "size_bytes": 625950,
+      "sha256": "3ff2892681d987f019a4c7afdd206a15872d16ea5958b9a1df70ac4270031dcc",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0170",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000029.jpg",
+      "local_filename": "ao_dai_cach_tân__000029.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000029.jpg",
+      "size_bytes": 755287,
+      "width": 1832,
+      "height": 2560,
+      "format": "JPEG",
+      "sha256": "f6bda81d1408f8d64e7420c0337bb36f34dd1432509012b4ded2be0e1ee3b5b1",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0171",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000029.jpg",
+      "local_filename": "ao_dai_cuới__000029.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000029.jpg",
+      "size_bytes": 122596,
+      "sha256": "67d35b68b11b4a4039dbff3e4dcb7168c6342be59fb6b3ed97c5ea19d004e5eb",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0172",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000029.jpg",
+      "local_filename": "ao_dai_học_sinh__000029.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000029.jpg",
+      "size_bytes": 84228,
+      "sha256": "d3e50da7c4fed3545532d3c5ff03f37dbb1ae3a7dac979740108a4a21b18af3c",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0173",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000029.jpg",
+      "local_filename": "ao_dai_nam__000029.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000029.jpg",
+      "size_bytes": 235195,
+      "sha256": "9a518bdf981cf589b68e9af391b1439f06f5c39f06346fc298e6d51eefb09b0e",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0174",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000029.jpg",
+      "local_filename": "ao_dai_trẻ_em__000029.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000029.jpg",
+      "size_bytes": 156137,
+      "sha256": "2c63210ec91cf0606a5ae57d6f458d91c1a19a3045b10525e27d61cd05764ed8",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0175",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000030.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000030.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000030.jpg",
+      "size_bytes": 1097590,
+      "sha256": "91916d4f6c835bebc0cc042962f754ed4d83bdcade5d8544a79da4d8c1469e93",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0176",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000030.jpg",
+      "local_filename": "ao_dai_cach_tân__000030.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000030.jpg",
+      "size_bytes": 184261,
+      "sha256": "f3da75e3933c2816bcd0874b8f09ac3354402511b88f8501674dc910810e0c64",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0177",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000030.jpg",
+      "local_filename": "ao_dai_cuới__000030.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000030.jpg",
+      "size_bytes": 171474,
+      "sha256": "65529ffd446579baba51525fae37ee6c877966ec3b91417449ca4250afac7821",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0178",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000030.png",
+      "local_filename": "ao_dai_học_sinh__000030.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000030.png",
+      "size_bytes": 498694,
+      "sha256": "bed6f2de3745eceffa7d582d79185997cb4eef8842bf8de912021f140b8ea11d",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0179",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000030.jpg",
+      "local_filename": "ao_dai_nam__000030.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000030.jpg",
+      "size_bytes": 559206,
+      "sha256": "071c74ccae70fa3da1e36e05d7c4ea0c47739e3d0d025e492686f88906381704",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0180",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000030.jpg",
+      "local_filename": "ao_dai_trẻ_em__000030.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000030.jpg",
+      "size_bytes": 255155,
+      "sha256": "4359b002742c9b860d82f7695b29bb6d94fa9f3ab9d712ed4375133ce1c34d82",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0181",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000031.png",
+      "local_filename": "ao_dai_Việt_Nam__000031.png",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000031.png",
+      "size_bytes": 1545698,
+      "width": 1190,
+      "height": 769,
+      "format": "PNG",
+      "sha256": "812d3719d9c0adbec6111619279d2a080031abb553a23f3f08ea8bc653f3c005",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0182",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000031.jpg",
+      "local_filename": "ao_dai_cach_tân__000031.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000031.jpg",
+      "size_bytes": 250906,
+      "sha256": "b08689d620dc807dc515cb2fde807b3a898e222b05c925e14a72a1d1c1393624",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0183",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000031.jpg",
+      "local_filename": "ao_dai_cuới__000031.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000031.jpg",
+      "size_bytes": 286244,
+      "sha256": "7cc598b965f8aebf0643fb9fb944b954afd1744eadba89979892194d307bf49c",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0184",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000031.jpg",
+      "local_filename": "ao_dai_học_sinh__000031.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000031.jpg",
+      "size_bytes": 61271,
+      "sha256": "28fd32e1459372e6478dd1ffd4e8814cc8889d3fef675d5d4ec89fb84ffb6790",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0185",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000031.jpg",
+      "local_filename": "ao_dai_nam__000031.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000031.jpg",
+      "size_bytes": 330734,
+      "sha256": "5cc54a94d1ba52cf1a8aba780faa5708af3d4f1defe67dc1c43e2cd5e938ca57",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0186",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000031.jpg",
+      "local_filename": "ao_dai_trẻ_em__000031.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000031.jpg",
+      "size_bytes": 72339,
+      "sha256": "b55b6b015f90ce4ecfb19cd4a7c674e0ca55bb4b0069585b83255b8b1a338fa4",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0187",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000032.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000032.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000032.jpg",
+      "size_bytes": 78415,
+      "sha256": "15000e5b349260d7c09505e9caffe6c239f486f11f9792f2a332b30ebbbbcdf6",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0188",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000032.jpg",
+      "local_filename": "ao_dai_cach_tân__000032.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000032.jpg",
+      "size_bytes": 453888,
+      "sha256": "46684b418b34374aeb00dcf05d4a807c66a7f4732af81edd0c6d4855a30ae625",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0189",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000032.jpg",
+      "local_filename": "ao_dai_cuới__000032.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000032.jpg",
+      "size_bytes": 601209,
+      "sha256": "bab91c84cea0668b0f2bff6f234dda6faef30aa8933c62cd09381d91c61dca1b",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0190",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000032.jpg",
+      "local_filename": "ao_dai_học_sinh__000032.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000032.jpg",
+      "size_bytes": 81442,
+      "sha256": "955917d10cf3b2ade98f1ddace907060d15fc48d6933956c1bb23810059d79d9",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0191",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000032.jpg",
+      "local_filename": "ao_dai_nam__000032.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000032.jpg",
+      "size_bytes": 1850785,
+      "width": 1575,
+      "height": 2362,
+      "format": "JPEG",
+      "sha256": "be1b5c666b9fbb5aea435baf551ae81866a30b3fe11cdcfe14d83c7f455cb8a4",
+      "status": "ok"
+    },
+    {
+      "id": "ao_dai_0192",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000032.jpg",
+      "local_filename": "ao_dai_trẻ_em__000032.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000032.jpg",
+      "size_bytes": 341906,
+      "sha256": "bb555bc171310e3cf65f876b580912ef2038e9d290374e64b8ecad13488b9b52",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0193",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000033.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000033.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000033.jpg",
+      "size_bytes": 63356,
+      "sha256": "1f52c255165ce20e80db0ac601f6f2a4b30e328108f95ee01c7133e4c5a35e97",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0194",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000033.jpg",
+      "local_filename": "ao_dai_cach_tân__000033.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000033.jpg",
+      "size_bytes": 255155,
+      "sha256": "4359b002742c9b860d82f7695b29bb6d94fa9f3ab9d712ed4375133ce1c34d82",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0195",
+      "hf_path": "images/trang_phuc/ao_dai_cuới/000033.jpg",
+      "local_filename": "ao_dai_cuới__000033.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cuới__000033.jpg",
+      "size_bytes": 136624,
+      "sha256": "a89a867ff4fcab16544fd051b39ff97ca8830ef2477573e51b44dae635cfa95d",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0196",
+      "hf_path": "images/trang_phuc/ao_dai_học_sinh/000033.jpg",
+      "local_filename": "ao_dai_học_sinh__000033.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_học_sinh__000033.jpg",
+      "size_bytes": 286427,
+      "sha256": "9f556691cc6c2b32adf20102ce984d39033978c856b8aa934476194d3e6e0577",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0197",
+      "hf_path": "images/trang_phuc/ao_dai_nam/000033.jpg",
+      "local_filename": "ao_dai_nam__000033.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_nam__000033.jpg",
+      "size_bytes": 155584,
+      "sha256": "13e19468ef90a27fb6c1ae49f853d49623e9288a5f33ef5670f8bba4f89082a1",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0198",
+      "hf_path": "images/trang_phuc/ao_dai_trẻ_em/000033.jpg",
+      "local_filename": "ao_dai_trẻ_em__000033.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_trẻ_em__000033.jpg",
+      "size_bytes": 80284,
+      "sha256": "e458b65caff73f0dd416f39343422921b296ee929301aac088be01fff7660fbc",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0199",
+      "hf_path": "images/trang_phuc/ao_dai_Việt_Nam/000034.jpg",
+      "local_filename": "ao_dai_Việt_Nam__000034.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_Việt_Nam__000034.jpg",
+      "size_bytes": 368641,
+      "sha256": "ce75553a6260181ba84dc44e9e1d701e377e7230cca596a71941661650456162",
+      "status": "cached"
+    },
+    {
+      "id": "ao_dai_0200",
+      "hf_path": "images/trang_phuc/ao_dai_cach_tân/000034.jpg",
+      "local_filename": "ao_dai_cach_tân__000034.jpg",
+      "local_path": "data\\raw\\ao_dai\\ao_dai_cach_tân__000034.jpg",
+      "size_bytes": 291678,
+      "sha256": "b74ce2b23cddb2b81d35d4b5aec8d5400ae34e06ad39e4d0cd5d9e64d04f50f1",
+      "status": "cached"
+    }
+  ]
+}

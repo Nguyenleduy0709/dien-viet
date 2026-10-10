@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "note": "Luật guardrail do con người viết, KHÔNG dùng LLM quyết định. 'when' là AND giữa các điều kiện; query_any: cụm (không dấu) xuất hiện trong câu hỏi hoặc chip; item_<trường>_any: mẫu có ít nhất một giá trị khớp; item_<trường>_all_in: mọi giá trị của mẫu nằm trong danh sách.",
+  "rules": [
+    {"id": "tang_le_mau_ruc_ro", "severity": "medium",
+     "when": {"query_any": ["dam tang", "tang le", "dua tang", "vieng"], "item_color_any": ["đỏ", "vàng", "hồng", "cam"]},
+     "message": "Trang phục dự tang lễ thường chọn tông trang nhã, trầm hoặc trắng/đen; nên tránh màu rực rỡ như đỏ, vàng, hồng."},
+    {"id": "cuoi_mau_do", "severity": "low",
+     "when": {"query_any": ["dam cuoi", "le cuoi", "an hoi", "cuoi hoi", "tiec cuoi", "co dau", "du cuoi", "di cuoi"], "item_color_any": ["đỏ"]},
+     "message": "Màu đỏ thường được dành cho cô dâu trong lễ cưới hoặc ăn hỏi; nếu bạn là khách mời, nên cân nhắc màu khác."},
+    {"id": "di_chua_cach_tan", "severity": "low",
+     "when": {"query_any": ["di chua", "le chua", "vieng chua", "den chua", "di le chua"], "item_style_any": ["cách tân"]},
+     "message": "Đi chùa nên chọn trang phục kín đáo, tà dài vừa phải; áo cách tân cần chú ý cổ, tà và tay áo."},
+    {"id": "tet_toan_trang", "severity": "low",
+     "when": {"query_any": ["tet", "nam moi"], "item_color_all_in": ["trắng"]},
+     "message": "Theo quan niệm dân gian, ngày Tết nhiều người ưu tiên màu tươi sáng hơn là trắng hoặc đen. Đây là quan niệm, không phải quy định."},
+    {"id": "tho_cam_nguon_goc", "severity": "low",
+     "when": {"item_pattern_any": ["thổ cẩm"]},
+     "message": "Họa tiết thổ cẩm thuộc về những cộng đồng dân tộc cụ thể; nên tìm hiểu nguồn gốc và ghi rõ khi sử dụng."}
+  ]
+}

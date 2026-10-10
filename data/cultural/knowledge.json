@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "verified": false,
+  "note": "BẢN NHÁP kiến thức phổ thông, viết ngắn và thận trọng. CHƯA đối chiếu nguồn. Hãy bổ sung trường 'source' (sách, bảo tàng, bài báo uy tín) cho từng mục rồi đặt verified=true trước khi nộp bài.",
+  "entries": [
+    {"id": "dip_tet", "priority": 9, "match": {"occasion": ["Tết"]}, "text": "Dịp Tết, nhiều người Việt mặc áo dài để chụp ảnh gia đình, đi chúc Tết và du xuân; màu tươi sáng thường được ưa chuộng.", "source": ""},
+    {"id": "dip_cuoi_hoi", "priority": 9, "match": {"occasion": ["Cưới hỏi"]}, "text": "Trong lễ ăn hỏi và lễ cưới, áo dài là trang phục phổ biến của cô dâu, chú rể và người thân hai bên gia đình.", "source": ""},
+    {"id": "dip_di_hoc", "priority": 9, "match": {"occasion": ["Đi học"]}, "text": "Áo dài trắng là đồng phục truyền thống của nhiều trường học ở Việt Nam, đặc biệt với nữ sinh.", "source": ""},
+    {"id": "hoa_sen", "priority": 8, "match": {"pattern": ["hoa sen"]}, "text": "Hoa sen thường được dùng trong họa tiết truyền thống để gợi sự thanh cao, trong sạch.", "source": ""},
+    {"id": "hoa_mai", "priority": 8, "match": {"pattern": ["hoa mai"]}, "text": "Hoa mai vàng gắn với mùa xuân và dịp Tết ở miền Nam.", "source": ""},
+    {"id": "hoa_dao", "priority": 8, "match": {"pattern": ["hoa đào"]}, "text": "Hoa đào gắn với mùa xuân và dịp Tết ở miền Bắc.", "source": ""},
+    {"id": "tho_cam", "priority": 8, "match": {"pattern": ["thổ cẩm"]}, "text": "Thổ cẩm là sản phẩm dệt truyền thống của nhiều cộng đồng dân tộc; mỗi cộng đồng có hoa văn và ý nghĩa riêng.", "source": ""},
+    {"id": "gam", "priority": 7, "match": {"pattern": ["gấm"]}, "text": "Gấm là loại vải dệt hoa văn nổi bật, thường được chọn cho áo dài trong các dịp trang trọng.", "source": ""},
+    {"id": "ao_dai_nam", "priority": 8, "match": {"text_any": ["áo dài nam", "khăn đóng"]}, "text": "Áo dài nam thường gắn với các dịp lễ nghi, có thể đi cùng khăn đóng.", "source": ""},
+    {"id": "phong_cach_cach_tan", "priority": 6, "match": {"style": ["cách tân"]}, "text": "Áo dài cách tân giữ dáng áo dài nhưng thay đổi chi tiết như cổ, tà, tay hoặc chất liệu để hợp với cuộc sống hiện đại.", "source": ""},
+    {"id": "phong_cach_truyen_thong", "priority": 6, "match": {"style": ["truyền thống"]}, "text": "Áo dài truyền thống thường có cổ cao, thân ôm vừa phải và hai tà dài, mặc cùng quần ống rộng.", "source": ""},
+    {"id": "mau_do", "priority": 4, "match": {"color": ["đỏ"]}, "text": "Màu đỏ thường gắn với may mắn và niềm vui, hay được chọn cho dịp Tết và lễ cưới.", "source": ""},
+    {"id": "mau_vang", "priority": 4, "match": {"color": ["vàng"]}, "text": "Màu vàng thường gợi sự ấm áp, tươi sáng và trang trọng, hay gặp trong trang phục mùa xuân và dịp lễ.", "source": ""},
+    {"id": "mau_trang", "priority": 4, "match": {"color": ["trắng"]}, "text": "Áo dài trắng gắn với hình ảnh nữ sinh Việt Nam, đồng thời là lựa chọn trang nhã, dễ phối.", "source": ""}
+  ]
+}
